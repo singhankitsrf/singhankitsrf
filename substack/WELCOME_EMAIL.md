@@ -1,11 +1,11 @@
 # Welcome Email
 
 ## Subject
-Welcome to Engineering Reliable AI
+Welcome to Evidence-First AI Systems
 
 ## Body
 
-Welcome — and thank you for subscribing to **Engineering Reliable AI**.
+Welcome — and thank you for subscribing to **Evidence-First AI Systems**.
 
 This publication is about a problem I care about deeply: how to move from an interesting AI model, research result or prototype to an engineering system whose behavior, evidence and limitations can actually be inspected.
 
@@ -29,6 +29,7 @@ You can also inspect the engineering work directly:
 - GitHub: https://github.com/singhankitsrf
 - Hugging Face: https://huggingface.co/singhankit491
 - Portfolio index: https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md
+- Recruiter start: https://github.com/singhankitsrf/singhankitsrf/blob/main/RECRUITER_START_HERE.md
 
 I plan to publish one substantial technical article roughly every two weeks, with shorter research and engineering notes between them.
 
