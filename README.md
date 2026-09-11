@@ -2,15 +2,16 @@
 
 # Ankit Kumar Singh
 
-### AI Lead · Senior/Staff AI Engineering · GenAI & Agentic Systems · AI Platform Architecture
+### AI Lead · Staff/Senior AI Engineering · GenAI & Agentic Systems · AI Platform Architecture
 
-Building production-oriented AI systems across **LLMs, LangChain/LangGraph, MCP, RAG, computer vision, NLP, AWS, Azure, PySpark, MLOps, CI/CD, Docker, Kubernetes and responsible AI**.
+Building production-oriented AI systems across **agentic AI, RAG, medical computer vision, NLP, AWS, Azure, PySpark, MLOps, CI/CD, Docker, Kubernetes and responsible AI**.
 
+[![Recruiter Start Here](https://img.shields.io/badge/Recruiter-Start%20Here-111827)](./RECRUITER_START_HERE.md)
 [![GitHub](https://img.shields.io/badge/GitHub-singhankitsrf-181717?logo=github)](https://github.com/singhankitsrf)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-singhankit491-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/singhankit491)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Singh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-singh-data-scientist-434404203)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5%20Flagship%20Projects-2563EB)](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
-[![Technical Writing](https://img.shields.io/badge/Technical%20Writing-Research%20%26%20AI-4B5563)](./writing/README.md)
+[![Engineering Reliable AI](https://img.shields.io/badge/Publication-Engineering%20Reliable%20AI-4B5563)](./writing/README.md)
 
 </div>
 
@@ -18,22 +19,17 @@ Building production-oriented AI systems across **LLMs, LangChain/LangGraph, MCP,
 
 ## Executive profile
 
-I build AI systems as **engineering products**, not isolated notebooks. My portfolio covers the path from data and model design to evaluation, APIs, cloud/platform architecture, CI/CD, observability, governance and deployment evidence.
+I build AI systems as **engineering products**, not isolated notebooks. My portfolio covers the path from data/model/retrieval design to evaluation, APIs, cloud and platform architecture, CI/CD, observability, governance and deployment evidence.
 
-My strongest current signals are:
+**Primary role fit:** AI Lead · Staff/Senior AI Engineer · AI Platform Architect · Principal AI Architect · GenAI/LLM Engineer · Senior ML Engineer · MLOps Architect · Senior Data Scientist · Healthcare AI technical leadership.
 
-- **Agentic AI / LLM engineering:** LangChain, LangGraph, MCP, governed RAG, human approval, evaluation and observability
-- **Computer vision / medical AI:** PyTorch, transfer learning, uncertainty-aware routing, explainability and MLOps
-- **NLP / ReleaseOps:** reproducible model baselines, regression gates, API contracts, security and browser deployment
-- **AWS AI platform engineering:** SageMaker Pipelines, Model Registry, async inference, Terraform and event-driven architecture
-- **Azure data platform engineering:** PySpark, Databricks, Delta Lake, medallion architecture, streaming and IaC
-- **Production discipline:** Docker, Kubernetes, FastAPI, GitHub Actions, testing, security gates and responsible-AI boundaries
-
-> **Portfolio principle:** executed evidence is labeled separately from architecture or future deployment work. I do not present unexecuted cloud/model claims as measured results.
+> **Evidence principle:** architecture, implementation, reproducible evaluation, deployment evidence and production claims are treated as different evidence levels. I do not present unexecuted cloud plans, synthetic benchmarks or research prototypes as measured production outcomes.
 
 ---
 
 ## Start here
+
+**Recruiters / hiring managers:** [Use the 10–15 minute evaluation path →](./RECRUITER_START_HERE.md)
 
 | Priority | Project | Primary signal | Live demo |
 |---|---|---|---|
@@ -43,87 +39,35 @@ My strongest current signals are:
 | 4 | [ClinRoute NLP ReleaseOps](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps) | NLP · evaluation · model-aware CI/CD | [Hugging Face](https://huggingface.co/spaces/singhankit491/clinroute-nlp) |
 | 5 | [MedLake Azure PySpark](https://github.com/singhankitsrf/MedLake-Azure-PySpark) | Azure · PySpark · Delta Lake · data platform | [Hugging Face](https://huggingface.co/spaces/singhankit491/medlake-pyspark) |
 
-[Complete portfolio index →](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
+[Complete five-project portfolio index →](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
 
 ---
 
-## Flagship AI engineering portfolio
+## Capability map
 
-### 1. AgentForge Enterprise — Agentic AI / LLM Platform
-
-**Governed multi-agent RAG platform with LangGraph, LangChain, MCP, evaluation, observability and human-in-the-loop control.**
-
-**Evidence:** deterministic agent orchestration, typed MCP tools, FastAPI, offline evaluation contract, Docker, CI and dependency-security audit. Provider-backed LLM benchmarking is intentionally not claimed yet.
-
-[GitHub](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) · [Live Hugging Face Space](https://huggingface.co/spaces/singhankit491/agentforge-enterprise) · [Project Charter](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PROJECT.md) · [Roadmap](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/issues/1)
-
-### 2. OtoVision MLOps — Computer Vision / Medical AI
-
-**Production-oriented otoscopic image classification architecture with leakage-aware data QA, uncertainty-aware referral, explainability, FastAPI, Docker and Kubernetes.**
-
-**Evidence:** data-quality/leakage controls, reusable PyTorch pipeline, evaluation/calibration design, Grad-CAM, API serving, container/Kubernetes assets and CI. No disease-performance metric is published without a genuine checkpoint and reproducible evaluation evidence.
-
-[GitHub](https://github.com/singhankitsrf/Otovision-MLOps) · [Live Hugging Face Space](https://huggingface.co/spaces/singhankit491/otovision-mlops) · [Project Charter](https://github.com/singhankitsrf/Otovision-MLOps/blob/main/PROJECT.md) · [Roadmap](https://github.com/singhankitsrf/Otovision-MLOps/issues/3)
-
-### 3. OtoSage AWS — AWS AI Platform / SageMaker
-
-**AWS-native event-driven healthcare AI reference platform using SageMaker Pipelines, Model Registry, async inference, S3, Lambda, DynamoDB, SNS, CloudWatch and Terraform.**
-
-**Evidence:** source code, Terraform validation, CI, model-lifecycle controls and Hugging Face architecture demo. Actual SageMaker training, endpoint latency, cloud cost and production SLOs are not claimed until executed in an owned AWS environment.
-
-[GitHub](https://github.com/singhankitsrf/OtoSage_AWS_GitHub) · [Live Hugging Face Space](https://huggingface.co/spaces/singhankit491/otosage-aws) · [Project Charter](https://github.com/singhankitsrf/OtoSage_AWS_GitHub/blob/main/PROJECT.md) · [Roadmap](https://github.com/singhankitsrf/OtoSage_AWS_GitHub/issues/3)
-
-### 4. ClinRoute NLP ReleaseOps — NLP / Model-Aware CI/CD
-
-**Production-oriented NLP pipeline with reproducible baselines, optional Transformer path, redaction, confidence routing, FastAPI, Docker, CodeQL and model regression gates.**
-
-**Evidence:** reproducible synthetic benchmark, data-contract checks, browser/scikit-learn parity validation, Python quality gates, unit tests, security scan, CodeQL and live static inference. Synthetic performance is explicitly separated from clinical generalization.
-
-[GitHub](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps) · [Live Hugging Face Space](https://huggingface.co/spaces/singhankit491/clinroute-nlp) · [Project Charter](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps/blob/main/PROJECT.md) · [Roadmap](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps/issues/4)
-
-### 5. MedLake Azure PySpark — Data / Lakehouse Engineering
-
-**Healthcare lakehouse reference architecture using PySpark, Azure Databricks, Delta Lake, ADLS Gen2, Event Hubs, Data Factory, Terraform and GitHub Actions.**
-
-**Evidence:** executable local PySpark pipeline, synthetic-event quality checks, quarantine/deduplication/reconciliation evidence, Spark CI evaluation, mypy, pytest and Terraform validation. Azure cloud performance/cost is not claimed until measured in Azure.
-
-[GitHub](https://github.com/singhankitsrf/MedLake-Azure-PySpark) · [Live Hugging Face Space](https://huggingface.co/spaces/singhankit491/medlake-pyspark) · [Project Charter](https://github.com/singhankitsrf/MedLake-Azure-PySpark/blob/main/PROJECT.md) · [Roadmap](https://github.com/singhankitsrf/MedLake-Azure-PySpark/issues/7)
+- **Agentic / GenAI:** LangGraph, LangChain, MCP, RAG, tool governance, human approval, evaluation and observability
+- **Computer vision / Medical AI:** PyTorch, transfer learning, leakage-aware data QA, calibration, uncertainty routing and explainability
+- **NLP / ReleaseOps:** reproducible baselines, Transformer paths, regression gates, portable inference and security checks
+- **AWS AI platform:** SageMaker Pipelines, Model Registry, asynchronous inference, Terraform and event-driven architecture
+- **Azure data platform:** PySpark, Databricks, Delta Lake, streaming, medallion architecture and data quality
+- **Production engineering:** FastAPI, Docker, Kubernetes, GitHub Actions, testing, security, provenance and responsible-AI boundaries
 
 ---
 
-## Research & technical writing
+## Engineering Reliable AI — research & technical writing
 
-I translate research and architecture decisions into practitioner-focused writing on **reliable medical AI, agentic systems, AI platforms, MLOps and production evidence**.
+I publish practitioner-focused writing that connects research and architecture decisions to inspectable engineering evidence.
 
-**Featured article:** [Designing Reliability-Aware Medical AI: From Research Model to Production Architecture](./writing/reliability-aware-medical-ai.md)
+### Featured articles
 
-[Research & Technical Writing Index →](./writing/README.md)
+- [Designing Reliability-Aware Medical AI: From Research Model to Production Architecture](./writing/reliability-aware-medical-ai.md)
+- [Building Governed Agentic RAG Systems: Architecture Beyond the Chatbot](./writing/governed-agentic-rag-systems.md)
+- [What Should Count as Evidence in an AI Engineering Portfolio?](./writing/evidence-in-ai-engineering-portfolios.md)
+- [Architecting an AWS SageMaker Model Lifecycle with Registry, Async Inference and Terraform](./writing/aws-sagemaker-model-lifecycle.md)
+- [Model-Aware CI/CD for NLP Systems: Regression Gates, Security and Portable Inference](./writing/model-aware-cicd-nlp.md)
+- [Designing Healthcare Lakehouse Pipelines with PySpark, Delta Lake and Data Quality Controls](./writing/healthcare-lakehouse-pyspark-delta.md)
 
-This writing layer is designed to connect research ideas directly to inspectable code, live demonstrations and reproducible engineering evidence.
-
----
-
-## Capability matrix
-
-| Capability | AgentForge | OtoVision | OtoSage | ClinRoute | MedLake |
-|---|:---:|:---:|:---:|:---:|:---:|
-| LLM / Agentic AI | ✅ |  |  |  |  |
-| LangChain / LangGraph | ✅ |  |  |  |  |
-| MCP / Tool Use | ✅ |  |  |  |  |
-| RAG / Retrieval | ✅ |  |  |  |  |
-| Computer Vision / PyTorch |  | ✅ | ✅ |  |  |
-| NLP / Transformers |  |  |  | ✅ |  |
-| FastAPI | ✅ | ✅ |  | ✅ |  |
-| AWS / SageMaker |  |  | ✅ |  |  |
-| Azure / Databricks |  |  |  |  | ✅ |
-| PySpark / Delta Lake |  |  |  |  | ✅ |
-| Docker | ✅ | ✅ | ✅ | ✅ |  |
-| Kubernetes |  | ✅ |  |  |  |
-| Terraform / IaC |  |  | ✅ |  | ✅ |
-| CI/CD / GitHub Actions | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Model / Data Evaluation | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Security / Governance | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Responsible AI Boundaries | ✅ | ✅ | ✅ | ✅ | ✅ |
+[Technical writing index →](./writing/README.md) · [Substack publication operating system →](./substack/README.md)
 
 ---
 
@@ -142,45 +86,22 @@ API / Tool / Data-Platform Boundary
         ↓
 Container / Cloud / Infrastructure Design
         ↓
-CI-CD + Security + Observability
+CI/CD + Security + Observability
         ↓
 Measured Evidence + Release Provenance
 ```
 
-I prioritize:
-
-- reproducibility before headline metrics;
-- data leakage and provenance controls;
-- human review for uncertain or side-effecting AI actions;
-- automated regression and security gates;
-- clear separation of research demos from production/clinical claims;
-- measurable latency, cost and reliability only after execution.
+I prioritize reproducibility before headline metrics, explicit data/provenance controls, human review for uncertain or side-effecting AI actions, automated regression/security gates, and measurable latency/cost/reliability only after execution.
 
 ---
 
-## Recruiter / hiring-manager view
-
-This portfolio is designed for roles where the requirement is broader than model training alone:
-
-**AI Lead · Staff/Senior AI Engineer · GenAI/LLM Engineer · AI Platform Architect · Senior ML Engineer · Senior Data Scientist · MLOps / Applied AI Lead**
-
-It demonstrates:
-
-- end-to-end AI-system design rather than isolated model training;
-- breadth across GenAI, computer vision, NLP, cloud AI and data engineering;
-- production thinking around evaluation, governance, security, CI/CD and deployment;
-- architecture spanning AWS, Azure, containers and Kubernetes;
-- public, clickable demonstrations with explicit evidence boundaries;
-- technical communication connecting research decisions to engineering artifacts.
-
----
-
-## Live portfolio
+## Professional links
 
 **GitHub:** https://github.com/singhankitsrf  
 **Hugging Face:** https://huggingface.co/singhankit491  
 **LinkedIn:** https://www.linkedin.com/in/ankit-kumar-singh-data-scientist-434404203  
 **Portfolio index:** https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md  
+**Recruiter start:** https://github.com/singhankitsrf/singhankitsrf/blob/main/RECRUITER_START_HERE.md  
 **Technical writing:** https://github.com/singhankitsrf/singhankitsrf/tree/main/writing
 
-> Medical/healthcare repositories are research and engineering portfolio systems unless explicitly supported by separate validation evidence. They are not presented here as autonomous clinical products or medical devices.
+> Medical/healthcare repositories are research and engineering portfolio systems unless explicitly supported by separate validation evidence. They are not presented as autonomous clinical products or medical devices.
