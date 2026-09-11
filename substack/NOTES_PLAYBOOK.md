@@ -1,4 +1,4 @@
-# Substack Notes Playbook — Engineering Reliable AI
+# Substack Notes Playbook — Evidence-First AI Systems
 
 Substack Notes should extend the long-form publication, not become a stream of generic AI headlines.
 
@@ -7,21 +7,15 @@ Substack Notes should extend the long-form publication, not become a stream of g
 Use five repeatable Note formats:
 
 ### 1. Engineering principle
-
 One strong claim plus a short explanation.
 
 Example:
-
 > A production AI claim should name its evidence tier. Architecture, implementation, offline evaluation, deployment and production operation are different kinds of proof.
 
-Then link to the relevant article only when the link adds value.
-
 ### 2. Architecture fragment
-
 Share one small system flow from a flagship project and explain one design decision.
 
 Good topics:
-
 - policy pre-check → agent supervisor → tools → human approval;
 - image QA → classifier → calibration → uncertainty routing;
 - registry → approval → async endpoint;
@@ -29,11 +23,9 @@ Good topics:
 - Bronze → quality/quarantine → Silver → Gold.
 
 ### 3. Failure mode
-
 Explain one failure that a polished demo can hide.
 
 Examples:
-
 - patient or near-duplicate leakage;
 - RAG answer without evidence-bearing retrieval;
 - agent tool call without authorization boundary;
@@ -41,18 +33,15 @@ Examples:
 - data pipeline that silently drops invalid events.
 
 ### 4. Research-to-production note
-
 Take one research concept and state what changes when it becomes an engineering system.
 
 Examples:
-
 - accuracy → calibration + selective prediction;
 - model → model + data contract + release provenance;
 - prompt → graph + tool contract + trace + eval;
 - notebook → tested package + API + CI + container + monitoring boundary.
 
 ### 5. Evidence update
-
 Share a real repository improvement, CI result, benchmark, test, demo update or newly measured result. State exactly what changed and what it does **not** prove.
 
 ## Frequency
@@ -60,7 +49,6 @@ Share a real repository improvement, CI result, benchmark, test, demo update or 
 Target **2–3 Notes per week**. Quality and professional relevance are more important than daily volume.
 
 Suggested rhythm:
-
 - early week: engineering principle or architecture fragment;
 - mid/late week: failure mode or research-to-production note;
 - after a meaningful repository change: evidence update.
@@ -82,8 +70,6 @@ Use comments to contribute technical substance to relevant AI/ML/research conver
 Restack only when adding a short technical reason the item matters. Prefer papers, engineering postmortems, evaluation work, responsible-AI analysis, systems research and high-quality architecture discussions.
 
 ## Conversion path
-
-A useful Note should naturally lead a reader through:
 
 `Note → long-form article → relevant GitHub project → live Hugging Face demo / evidence artifact`
 
