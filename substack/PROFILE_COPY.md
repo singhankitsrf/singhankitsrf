@@ -2,7 +2,7 @@
 
 ## Publication name
 
-**Engineering Reliable AI**
+**Evidence-First AI Systems — Ankit Kumar Singh**
 
 ## Author display name
 
@@ -10,15 +10,15 @@
 
 ## One-line description
 
-Engineering reliable AI systems from research to production — medical AI, agentic RAG, AI platforms, MLOps, evaluation, cloud architecture, and evidence-based deployment.
+Evidence-first AI engineering from research to production — medical AI, agentic RAG, AI platforms, MLOps, evaluation, cloud architecture and reproducible deployment evidence.
 
 ## Short profile bio
 
-AI engineer and researcher writing about reliable medical AI, agentic AI/RAG, AI platform architecture, MLOps, evaluation, and the path from research prototypes to reproducible engineering systems.
+AI engineer and researcher writing about reliable medical AI, agentic AI/RAG, AI platform architecture, MLOps, evaluation and the path from research prototypes to reproducible engineering systems.
 
 ## Homepage hero copy
 
-### Engineering Reliable AI
+### Evidence-First AI Systems
 
 **From research prototype to inspectable AI system.**
 
@@ -30,7 +30,7 @@ Subscribe for systems-level AI engineering analysis grounded in inspectable code
 
 ## Start Here description
 
-New to Engineering Reliable AI? Start with three ideas that define the publication: reliability beyond accuracy, governance beyond the agent demo, and evidence beyond the architecture diagram.
+New here? Start with three ideas that define the publication: reliability beyond accuracy, governance beyond the agent demo, and evidence beyond the architecture diagram.
 
 ## Projects link description
 
@@ -48,7 +48,7 @@ Five flagship engineering projects across agentic AI, medical computer vision, A
 
 ## Footer description
 
-Engineering Reliable AI by Ankit Kumar Singh — AI systems, evaluation, platforms and research-to-production engineering.
+Evidence-First AI Systems by Ankit Kumar Singh — AI systems, evaluation, platforms and research-to-production engineering.
 
 ## Medical-AI footer note
 
