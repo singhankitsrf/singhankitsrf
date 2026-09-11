@@ -11,7 +11,7 @@ Building production-oriented AI systems across **agentic AI, RAG, medical comput
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-singhankit491-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/singhankit491)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Singh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-singh-data-scientist-434404203)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5%20Flagship%20Projects-2563EB)](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
-[![Engineering Reliable AI](https://img.shields.io/badge/Publication-Engineering%20Reliable%20AI-4B5563)](./writing/README.md)
+[![Evidence First AI](https://img.shields.io/badge/Publication-Evidence--First%20AI%20Systems-4B5563)](./writing/README.md)
 
 </div>
 
@@ -54,7 +54,7 @@ I build AI systems as **engineering products**, not isolated notebooks. My portf
 
 ---
 
-## Engineering Reliable AI — research & technical writing
+## Evidence-First AI Systems — research & technical writing
 
 I publish practitioner-focused writing that connects research and architecture decisions to inspectable engineering evidence.
 
