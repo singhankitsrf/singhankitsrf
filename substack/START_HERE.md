@@ -1,6 +1,6 @@
-# Start Here — Engineering Reliable AI
+# Start Here — Evidence-First AI Systems
 
-Welcome to **Engineering Reliable AI**.
+Welcome to **Evidence-First AI Systems**.
 
 This publication is about what happens after an AI idea becomes technically interesting.
 
@@ -11,40 +11,34 @@ I use this publication to examine those questions through real engineering artif
 ## Three pieces to start with
 
 ### 1. Designing Reliability-Aware Medical AI: From Research Model to Production Architecture
-
 Start here for the reliability philosophy behind the publication: calibration, uncertainty routing, leakage control, explainability, provenance and human review.
 
-Related engineering project: **OtoVision MLOps**  
-https://github.com/singhankitsrf/Otovision-MLOps
+Related project: https://github.com/singhankitsrf/Otovision-MLOps
 
 ### 2. Building Governed Agentic RAG Systems: Architecture Beyond the Chatbot
-
 This article looks at agentic AI as a control system rather than a prompt: evidence-bearing retrieval, typed tools, MCP, graph orchestration, approval boundaries, evaluation and observability.
 
-Related engineering project: **AgentForge Enterprise**  
-https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG
+Related project: https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG
 
 ### 3. What Should Count as Evidence in an AI Engineering Portfolio?
-
 This piece explains a principle I apply across all of my public work: architecture, source code, reproducible evaluation, deployment, production operation and external validation are different levels of evidence.
 
-Portfolio index:  
-https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md
+Portfolio index: https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md
 
 ## Then explore by interest
 
 **AWS / MLOps:** Architecting an AWS SageMaker Model Lifecycle with Registry, Async Inference and Terraform  
-Related project: https://github.com/singhankitsrf/OtoSage_AWS_GitHub
+Project: https://github.com/singhankitsrf/OtoSage_AWS_GitHub
 
 **NLP / ReleaseOps:** Model-Aware CI/CD for NLP Systems: Regression Gates, Security and Portable Inference  
-Related project: https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps
+Project: https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps
 
 **Data platforms:** Designing Healthcare Lakehouse Pipelines with PySpark, Delta Lake and Data Quality Controls  
-Related project: https://github.com/singhankitsrf/MedLake-Azure-PySpark
+Project: https://github.com/singhankitsrf/MedLake-Azure-PySpark
 
-## The publication's evidence rule
+## The evidence rule
 
-When I discuss a system, I try to distinguish clearly between:
+When I discuss a system, I distinguish clearly between:
 
 1. **Architecture intent** — what has been designed.
 2. **Implementation evidence** — what exists in code/configuration.
@@ -61,6 +55,7 @@ This keeps technical communication useful and prevents a prototype from being de
 - Hugging Face: https://huggingface.co/singhankit491
 - LinkedIn: https://www.linkedin.com/in/ankit-kumar-singh-data-scientist-434404203
 - Portfolio index: https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md
+- Recruiter start: https://github.com/singhankitsrf/singhankitsrf/blob/main/RECRUITER_START_HERE.md
 
 If you care about AI systems that are measurable, reproducible, governed and explicit about their limitations, subscribe and follow along.
 
