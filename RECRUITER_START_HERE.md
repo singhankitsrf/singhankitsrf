@@ -47,7 +47,7 @@ I do not present unexecuted cloud plans, synthetic benchmarks or research protot
 
 ## Technical writing / thought leadership
 
-**Engineering Reliable AI** is the publication system behind my research-to-production writing. The source library currently includes:
+**Evidence-First AI Systems** is the publication system behind my research-to-production writing. The source library currently includes:
 
 - [Designing Reliability-Aware Medical AI](./writing/reliability-aware-medical-ai.md)
 - [Building Governed Agentic RAG Systems](./writing/governed-agentic-rag-systems.md)
