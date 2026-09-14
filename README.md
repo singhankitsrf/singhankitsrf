@@ -34,7 +34,7 @@ I build AI and digital products as **engineering systems**, not isolated noteboo
 | Priority | Project | Primary signal | Live surface |
 |---|---|---|---|
 | 1 | [AgentForge Enterprise](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) | Agentic AI · LangGraph · MCP · governed RAG | [Hugging Face](https://huggingface.co/spaces/singhankit491/agentforge-enterprise) |
-| 2 | [Liver Wala](./projects/telemedicine-platform/README.md) | Live telemedicine · product workflow · real-time consultation | [Live application](https://liver-wala.singhankitjrf.chatgpt.site) |
+| 2 | [Liver Wala](./projects/telemedicine-platform/README.md) | Live telemedicine · product workflow · real-time consultation | [Live application](https://liver-wala.singhankitjrf.chatgpt.site) · [Hugging Face](https://huggingface.co/spaces/singhankit491/lw-telemedicine-product) |
 | 3 | [OtoVision MLOps](https://github.com/singhankitsrf/Otovision-MLOps) | Medical CV · reliability · MLOps | [Hugging Face](https://huggingface.co/spaces/singhankit491/otovision-mlops) |
 | 4 | [OtoSage AWS](https://github.com/singhankitsrf/OtoSage_AWS_GitHub) | AWS · SageMaker · Terraform · model lifecycle | [Hugging Face](https://huggingface.co/spaces/singhankit491/otosage-aws) |
 | 5 | [ClinRoute NLP ReleaseOps](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps) | NLP · evaluation · model-aware CI/CD | [Hugging Face](https://huggingface.co/spaces/singhankit491/clinroute-nlp) |
