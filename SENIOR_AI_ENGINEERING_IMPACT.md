@@ -37,7 +37,7 @@ Ankit combines applied medical AI, agentic systems, cloud/data platforms and tec
 
 ## Recruiter interpretation
 
-This portfolio supports consideration for senior and lead roles because it demonstrates breadth, architecture judgment, responsible-AI controls, implementation ownership and institutional delivery context. Compensation and title should be assessed against the target role, interview performance, verified scope, employer geography and contractual arrangement; the portfolio does not claim or guarantee a specific compensation outcome.
+This portfolio supports consideration for senior and lead roles because it demonstrates breadth, architecture judgment, responsible-AI controls, implementation ownership and institutional delivery context. Based on the demonstrated senior engineering scope, the portfolio is positioned for applications targeting approximately ₹1 crore–₹1.5 crore total annual compensation equivalent for suitable global-remote roles and ₹40–₹80 lakh annual CTC for suitable Indian remote, hybrid or Raipur-based roles. These are target application bands—not guaranteed outcomes—and remain dependent on verified scope, employer geography, contract structure, work authorization and interview performance.
 
 ## Verification policy
 
