@@ -42,6 +42,22 @@ I personally implemented the projects presented in this portfolio. My applied wo
 
 [Portfolio-wide evidence guide →](./PORTFOLIO_EVIDENCE.md)
 
+
+## Senior-level impact snapshot
+
+| Dimension | Evidence |
+|---|---|
+| Experience | Approximately 15 years of professional experience, including more than 8 years in AI/IT research and implementation (author-reported) |
+| Healthcare AI | Prototype real-time decision-support implementation associated with the ENT Department, AIIMS Raipur (author-reported) |
+| Reach | ENT clinical environment serving more than 10,000 users/patient interactions annually (author-reported operational context; not a model-usage count) |
+| Governance | Institutional Ethics Committee approval NITRR/IEC/2025/14, dated 16 October 2025, for the relevant research programme (author-reported) |
+| Leadership | AI Lead / Project Manager experience, including multidisciplinary teams reported in the 25–50 member range |
+| International programme | AI leadership contribution to IReSOpM, an Indo–Norway DST–RCN consortium |
+| Research | More than 10 research publications (author-reported) |
+| Delivery breadth | Agentic AI, medical computer vision, NLP, AWS, Azure, PySpark, MLOps, APIs, CI/CD, Docker and Kubernetes |
+
+[Executive impact dossier →](./SENIOR_AI_ENGINEERING_IMPACT.md)
+
 ## Start here
 
 **Recruiters / hiring managers:** [Use the 10–15 minute evaluation path →](./RECRUITER_START_HERE.md)
