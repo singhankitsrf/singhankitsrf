@@ -2,9 +2,9 @@
 
 # Ankit Kumar Singh
 
-### AI Lead · Staff/Senior AI Engineering · GenAI & Agentic Systems · AI Platform Architecture
+### Senior AI Engineer · AI Platform Architect · Healthcare AI & Agentic Systems
 
-Building production-oriented systems across **agentic AI, RAG, medical computer vision, NLP, digital health product engineering, AWS, Azure, PySpark, MLOps, CI/CD, Docker, Kubernetes and responsible AI**.
+Personally building and executing end-to-end AI systems across **medical decision support, agentic AI, RAG, computer vision, NLP, AWS, Azure, PySpark, MLOps and responsible AI**—with implementation experience connected to the ENT Department at AIIMS Raipur, hospital-facing medical support, and the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
 
 [![Recruiter Start Here](https://img.shields.io/badge/Recruiter-Start%20Here-111827)](./RECRUITER_START_HERE.md)
 [![GitHub](https://img.shields.io/badge/GitHub-singhankitsrf-181717?logo=github)](https://github.com/singhankitsrf)
@@ -26,6 +26,48 @@ I build AI and digital products as **engineering systems**, not isolated noteboo
 > **Evidence principle:** architecture, implementation, reproducible evaluation, deployment evidence and production claims are treated as different evidence levels. I do not present unexecuted cloud plans, synthetic benchmarks or research prototypes as measured production outcomes.
 
 ---
+
+
+## Real-world engineering evidence
+
+I personally implemented the projects presented in this portfolio. My applied work includes AI-assisted medical-support systems associated with the ENT Department at AIIMS Raipur and other hospital settings, together with multidisciplinary engineering through the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
+
+| Evidence layer | What reviewers can inspect |
+|---|---|
+| Real-world context | Author-confirmed institutional implementation, documented without disclosing confidential patient or project material |
+| Engineering implementation | Source code, architecture, tests, APIs, data/model pipelines, infrastructure definitions and deployment workflows |
+| Reproducibility | Setup commands, deterministic fixtures, evaluation scripts, checksums and CI runs |
+| Measured outputs | Repository-specific evaluation files with scope and limitations stated explicitly |
+| Public review | GitHub repositories and linked Hugging Face or live portfolio surfaces |
+
+[Portfolio-wide evidence guide →](./PORTFOLIO_EVIDENCE.md)
+
+
+## Senior-level impact snapshot
+
+| Dimension | Evidence |
+|---|---|
+| Experience | Approximately 15 years of professional experience, including more than 8 years in AI/IT research and implementation (author-reported) |
+| Healthcare AI | Prototype real-time decision-support implementation associated with the ENT Department, AIIMS Raipur (author-reported) |
+| Reach | ENT clinical environment serving more than 10,000 users/patient interactions annually (author-reported operational context; not a model-usage count) |
+| Governance | Institutional Ethics Committee approval NITRR/IEC/2025/14, dated 16 October 2025, for the relevant research programme (author-reported) |
+| Leadership | AI Lead / Project Manager experience, including multidisciplinary teams reported in the 25–50 member range |
+| International programme | AI leadership contribution to IReSOpM, an Indo–Norway DST–RCN consortium |
+| Research | More than 10 research publications (author-reported) |
+| Delivery breadth | Agentic AI, medical computer vision, NLP, AWS, Azure, PySpark, MLOps, APIs, CI/CD, Docker and Kubernetes |
+
+[Executive impact dossier →](./SENIOR_AI_ENGINEERING_IMPACT.md)
+
+
+## Target opportunity bands
+
+This portfolio is designed to support applications for:
+
+- **Global remote:** senior/lead AI engineering and AI-platform roles targeting approximately **₹1 crore–₹1.5 crore total annual compensation equivalent**, subject to employer geography, contract structure and work-authorization requirements.
+- **India remote/hybrid:** senior AI engineering, AI architecture, MLOps and technical-lead roles targeting approximately **₹40–₹80 lakh annual CTC**.
+- **Raipur/on-site or hybrid:** high-impact AI leadership, healthcare AI, research engineering, data-platform and AI-infrastructure opportunities where role scope supports the target band.
+
+These are application targets, not guaranteed outcomes. The evidence above establishes role relevance and interview credibility; each employer determines title, level and compensation.
 
 ## Start here
 
