@@ -58,6 +58,17 @@ I personally implemented the projects presented in this portfolio. My applied wo
 
 [Executive impact dossier →](./SENIOR_AI_ENGINEERING_IMPACT.md)
 
+
+## Target opportunity bands
+
+This portfolio is designed to support applications for:
+
+- **Global remote:** senior/lead AI engineering and AI-platform roles targeting approximately **₹1 crore–₹1.5 crore total annual compensation equivalent**, subject to employer geography, contract structure and work-authorization requirements.
+- **India remote/hybrid:** senior AI engineering, AI architecture, MLOps and technical-lead roles targeting approximately **₹40–₹80 lakh annual CTC**.
+- **Raipur/on-site or hybrid:** high-impact AI leadership, healthcare AI, research engineering, data-platform and AI-infrastructure opportunities where role scope supports the target band.
+
+These are application targets, not guaranteed outcomes. The evidence above establishes role relevance and interview credibility; each employer determines title, level and compensation.
+
 ## Start here
 
 **Recruiters / hiring managers:** [Use the 10–15 minute evaluation path →](./RECRUITER_START_HERE.md)
