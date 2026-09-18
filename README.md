@@ -2,9 +2,9 @@
 
 # Ankit Kumar Singh
 
-### AI Lead · Staff/Senior AI Engineering · GenAI & Agentic Systems · AI Platform Architecture
+### Senior AI Engineer · AI Platform Architect · Healthcare AI & Agentic Systems
 
-Building production-oriented systems across **agentic AI, RAG, medical computer vision, NLP, digital health product engineering, AWS, Azure, PySpark, MLOps, CI/CD, Docker, Kubernetes and responsible AI**.
+Personally building and executing end-to-end AI systems across **medical decision support, agentic AI, RAG, computer vision, NLP, AWS, Azure, PySpark, MLOps and responsible AI**—with implementation experience connected to the ENT Department at AIIMS Raipur, hospital-facing medical support, and the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
 
 [![Recruiter Start Here](https://img.shields.io/badge/Recruiter-Start%20Here-111827)](./RECRUITER_START_HERE.md)
 [![GitHub](https://img.shields.io/badge/GitHub-singhankitsrf-181717?logo=github)](https://github.com/singhankitsrf)
@@ -26,6 +26,21 @@ I build AI and digital products as **engineering systems**, not isolated noteboo
 > **Evidence principle:** architecture, implementation, reproducible evaluation, deployment evidence and production claims are treated as different evidence levels. I do not present unexecuted cloud plans, synthetic benchmarks or research prototypes as measured production outcomes.
 
 ---
+
+
+## Real-world engineering evidence
+
+I personally implemented the projects presented in this portfolio. My applied work includes AI-assisted medical-support systems associated with the ENT Department at AIIMS Raipur and other hospital settings, together with multidisciplinary engineering through the Indo–Norway IReSOpM consortium supported by DST (India) and RCN (Norway).
+
+| Evidence layer | What reviewers can inspect |
+|---|---|
+| Real-world context | Author-confirmed institutional implementation, documented without disclosing confidential patient or project material |
+| Engineering implementation | Source code, architecture, tests, APIs, data/model pipelines, infrastructure definitions and deployment workflows |
+| Reproducibility | Setup commands, deterministic fixtures, evaluation scripts, checksums and CI runs |
+| Measured outputs | Repository-specific evaluation files with scope and limitations stated explicitly |
+| Public review | GitHub repositories and linked Hugging Face or live portfolio surfaces |
+
+[Portfolio-wide evidence guide →](./PORTFOLIO_EVIDENCE.md)
 
 ## Start here
 
