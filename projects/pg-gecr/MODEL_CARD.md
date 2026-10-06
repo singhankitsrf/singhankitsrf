@@ -1,7 +1,7 @@
 # Evidence and model card
 
 ## Intended use
-Research and engineering review of an otoscopic AI study and its selective-referral policy. The public companion consumes probability vectors; it does not classify an uploaded image. It is not a clinical decision service.
+Research and engineering review of an otoscopic AI study and its selective-referral policy. The portable policy consumes probability vectors. The bundle also provides ROI feature extraction/training/export on authorized local data; it does not ship the original trained image classifier. It is not a clinical decision service.
 
 ## Publication and sources
 - Singh, Ankit Kumar; Raghuvanshi, Ajay Singh; Mehta, Rupa. *PG-GECR: A Provenance-Gated Hybrid Expert System for Auditable Otoscopic Classification and Human-Supervised Referral.* Array (2026).

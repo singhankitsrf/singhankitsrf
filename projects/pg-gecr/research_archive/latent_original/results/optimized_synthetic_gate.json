@@ -1,0 +1,23 @@
+{
+  "model": "ExtraTrees",
+  "f_AOM": 0,
+  "f_ASOM": 0,
+  "f_CSOM": 0,
+  "n_synth": 0,
+  "val_accuracy": 0.7961165048543689,
+  "val_balanced_accuracy": 0.7280020703933747,
+  "val_macro_precision": 0.7369307309605816,
+  "val_macro_recall": 0.7280020703933747,
+  "val_macro_f1": 0.7152295961119491,
+  "val_macro_auc": 0.9054127767740701,
+  "val_MCC": 0.6129542526568287,
+  "val_log_loss": 0.5862295658370646,
+  "test_accuracy": 0.7019230769230769,
+  "test_balanced_accuracy": 0.5057692307692307,
+  "test_macro_precision": 0.46258515859643984,
+  "test_macro_recall": 0.5057692307692307,
+  "test_macro_f1": 0.4793006993006993,
+  "test_macro_auc": 0.8032480066387562,
+  "test_MCC": 0.39503512029190596,
+  "test_log_loss": 0.7247586964167849
+}

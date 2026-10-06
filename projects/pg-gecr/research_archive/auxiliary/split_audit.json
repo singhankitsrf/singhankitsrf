@@ -1,0 +1,47 @@
+{
+  "Acute Otitis Media": {
+    "archive": 600,
+    "unique": 522,
+    "groups": 514,
+    "largest_group": 2,
+    "train": 366,
+    "val": 78,
+    "test": 78
+  },
+  "Cerumen Impaction": {
+    "archive": 600,
+    "unique": 600,
+    "groups": 300,
+    "largest_group": 8,
+    "train": 420,
+    "val": 90,
+    "test": 90
+  },
+  "Chronic Otitis Media": {
+    "archive": 600,
+    "unique": 600,
+    "groups": 445,
+    "largest_group": 6,
+    "train": 420,
+    "val": 90,
+    "test": 90
+  },
+  "Myringosclerosis": {
+    "archive": 600,
+    "unique": 600,
+    "groups": 330,
+    "largest_group": 10,
+    "train": 420,
+    "val": 90,
+    "test": 90
+  },
+  "Normal": {
+    "archive": 600,
+    "unique": 600,
+    "groups": 335,
+    "largest_group": 7,
+    "train": 420,
+    "val": 90,
+    "test": 90
+  }
+}

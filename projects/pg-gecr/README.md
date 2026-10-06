@@ -14,13 +14,15 @@ For **Senior ML Engineer, Applied AI Lead, AI Platform Architect and Responsible
 
 ## What is available here
 
+- Original cVAE/ROI training source, reviewer analyses, split metadata and historical prediction artifacts.
+- Portable expert-only ROI feature extraction, training, calibration and model export.
 - Five original aggregate evidence files from the v3.0 study supplement, with SHA-256 provenance.
 - A dependency-free Python implementation of the study's ROI confidence/entropy and latent-consensus gate, with explicit input validation and reason codes.
 - Synthetic probability examples for demonstrating the policy without clinical images.
 - An aggregate audit that recomputes coverage, retained accuracy and error capture from classwise counts, verifies hashes, and checks minority-class failures.
 - Tests and a scoped GitHub Actions workflow; architecture, model card, and a staged deployment plan.
 
-**This is an engineering companion, not the complete training release.** The gate implementation was adapted for this portfolio from the archived `minor_primary_ablation.py`. The study's trained ROI/cVAE models, restricted images and full per-image probability artifacts are not bundled. The commands below verify policy behavior and aggregate consistency; they do not retrain or independently reproduce the paper.
+**Training source is now bundled:** [74 recovered research files](research_archive/) plus a [portable expert-only ROI training/export path](BUNDLE.md). Original trained checkpoints and primary clinical images were absent from the recovered packages; historical prediction artifacts are included. The public bundle supports source inspection, aggregate replay and new ROI training on authorized data. It does not yet supply the original trained model for image inference.
 
 ## Study evidence at a glance
 

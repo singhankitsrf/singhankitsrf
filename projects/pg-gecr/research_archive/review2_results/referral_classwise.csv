@@ -1,0 +1,5 @@
+Class,Support,Retained,Referred,Retained_fraction,Retained_TP,Retained_predicted_as_class,Retained_precision,Retained_recall_among_retained,Overall_auto_sensitivity,Class_errors,Errors_captured_by_referral,Error_capture_fraction
+AOM,14,5,9,0.35714285714285715,4,4,1.0,0.8,0.2857142857142857,4,3,0.75
+ASOM,13,7,6,0.5384615384615384,7,7,1.0,1.0,0.5384615384615384,1,1,1.0
+CSOM,7,2,5,0.2857142857142857,0,0,,0.0,0.0,5,3,0.6
+Normal,70,41,29,0.5857142857142857,41,44,0.9318181818181818,1.0,0.5857142857142857,12,12,1.0

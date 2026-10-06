@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+artifacts/
+*.joblib
+*.pt
+*.pth

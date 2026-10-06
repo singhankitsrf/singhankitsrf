@@ -25,7 +25,7 @@ First-author **Array (2026)** research on provenance-gated otoscopic AI, with a 
 
 **Inspect:** [publication](https://www.sciencedirect.com/science/article/pii/S2590005626006193) · [architecture](./projects/pg-gecr/ARCHITECTURE.md) · [portable policy](./projects/pg-gecr/policy.py) · [evidence audit](./projects/pg-gecr/audit_evidence.py) · [model card](./projects/pg-gecr/MODEL_CARD.md).
 
-The study combines expert-only evaluation, data provenance, validation-based rejection of unsupported augmentation, and uncertainty-aware human review. The companion adds runnable policy examples, source-verified aggregate checks and automated tests. Research results are explicitly separated from deployment claims; the complete trained-model pipeline is not bundled.
+The study combines expert-only evaluation, data provenance, validation-based rejection of unsupported augmentation, and uncertainty-aware human review. The companion adds runnable policy examples, source-verified aggregate checks and automated tests. Research results are explicitly separated from deployment claims; recovered training source and a portable ROI training/export path are bundled, with missing original checkpoints explicitly documented.
 
 ---
 

@@ -1,0 +1,2923 @@
+split,class,label,file
+train,Acute Otitis Media,0,Acute Otitis Media/aom (10).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (101).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (102).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (104).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (106).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (11).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (110).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (111).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (113).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (117).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (12).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (120).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (122).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (123).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (124).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (126).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (128).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (129).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (13).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (130).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (131).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (133).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (134).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (135).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (139).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (14).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (141).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (142).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (143).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (147).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (149).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (15).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (150).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (151).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (155).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (156).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (157).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (158).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (159).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (160).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (161).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (162).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (163).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (164).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (165).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (166).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (167).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (168).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (169).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (171).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (172).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (173).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (174).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (175).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (176).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (177).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (178).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (179).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (181).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (182).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (184).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (185).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (188).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (189).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (191).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (194).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (195).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (196).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (197).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (198).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (199).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (2).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (201).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (207).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (208).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (21).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (210).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (213).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (217).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (218).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (22).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (220).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (221).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (222).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (223).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (224).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (225).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (227).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (228).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (231).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (235).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (237).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (239).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (240).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (241).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (242).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (244).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (245).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (247).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (250).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (251).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (252).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (253).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (254).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (257).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (258).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (260).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (261).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (264).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (265).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (267).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (268).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (269).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (270).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (271).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (272).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (273).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (274).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (275).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (276).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (277).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (28).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (281).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (282).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (283).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (284).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (285).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (287).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (288).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (289).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (290).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (293).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (296).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (297).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (298).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (30).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (300).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (301).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (302).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (303).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (304).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (307).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (310).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (311).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (312).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (313).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (314).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (315).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (317).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (318).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (321).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (322).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (323).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (324).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (325).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (327).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (328).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (331).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (333).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (334).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (335).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (337).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (339).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (34).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (341).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (342).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (344).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (346).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (348).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (35).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (350).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (352).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (353).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (355).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (356).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (357).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (360).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (361).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (362).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (364).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (365).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (366).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (367).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (368).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (369).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (370).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (371).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (372).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (373).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (375).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (376).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (377).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (378).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (380).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (383).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (385).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (386).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (387).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (389).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (39).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (392).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (393).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (395).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (397).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (399).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (4).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (40).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (400).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (401).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (402).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (404).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (405).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (409).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (41).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (410).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (411).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (412).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (414).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (415).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (417).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (42).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (420).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (447).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (421).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (428).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (430).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (431).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (433).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (434).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (435).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (437).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (439).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (441).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (442).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (444).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (445).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (446).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (448).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (45).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (450).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (451).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (452).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (454).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (455).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (458).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (460).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (461).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (462).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (464).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (465).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (466).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (467).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (468).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (470).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (471).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (472).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (473).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (474).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (475).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (479).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (48).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (481).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (483).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (484).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (485).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (486).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (487).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (488).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (494).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (496).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (497).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (498).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (499).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (50).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (500).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (501).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (502).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (503).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (505).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (507).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (508).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (509).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (510).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (511).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (513).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (514).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (515).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (52).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (521).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (522).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (523).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (525).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (528).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (53).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (530).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (531).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (534).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (535).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (537).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (539).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (540).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (544).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (546).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (548).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (55).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (552).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (554).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (555).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (557).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (558).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (561).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (565).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (567).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (570).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (573).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (575).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (576).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (577).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (58).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (580).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (581).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (582).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (583).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (584).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (586).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (588).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (589).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (592).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (593).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (594).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (595).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (596).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (597).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (598).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (60).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (600).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (62).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (64).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (67).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (68).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (7).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (70).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (71).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (72).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (73).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (74).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (75).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (76).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (78).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (8).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (80).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (81).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (84).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (85).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (86).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (87).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (88).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (89).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (9).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (90).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (91).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (93).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (94).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (96).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (97).jpg
+train,Acute Otitis Media,0,Acute Otitis Media/aom (98).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (1).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (597).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (598).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (599).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (600).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (10).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (21).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (100).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (105).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (120).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (92).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (95).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (98).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (101).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (94).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (104).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (108).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (106).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (114).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (91).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (107).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (109).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (118).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (11).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (16).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (3).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (31).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (6).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (9).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (110).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (99).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (112).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (115).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (113).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (117).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (121).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (124).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (12).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (5).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (122).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (123).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (125).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (126).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (128).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (129).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (130).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (131).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (132).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (134).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (135).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (139).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (133).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (136).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (137).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (138).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (140).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (14).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (8).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (141).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (142).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (144).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (147).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (143).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (148).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (145).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (146).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (15).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (19).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (151).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (157).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (158).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (159).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (162).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (161).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (163).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (164).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (165).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (166).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (172).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (174).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (169).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (170).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (171).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (173).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (175).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (178).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (180).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (181).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (184).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (185).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (186).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (187).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (188).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (190).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (193).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (189).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (191).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (192).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (194).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (196).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (197).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (198).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (199).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (200).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (201).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (202).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (217).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (225).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (205).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (212).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (208).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (214).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (210).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (221).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (215).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (219).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (218).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (220).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (229).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (222).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (227).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (230).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (224).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (23).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (26).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (233).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (234).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (236).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (237).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (238).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (24).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (243).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (245).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (246).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (250).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (244).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (251).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (247).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (248).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (249).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (252).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (253).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (258).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (255).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (259).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (262).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (268).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (269).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (270).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (273).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (272).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (275).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (276).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (277).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (283).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (274).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (285).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (279).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (280).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (281).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (287).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (295).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (289).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (296).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (290).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (291).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (292).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (294).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (297).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (298).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (299).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (300).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (301).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (302).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (317).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (325).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (303).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (306).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (309).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (311).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (316).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (331).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (304).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (313).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (305).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (312).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (307).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (308).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (314).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (310).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (321).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (315).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (319).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (318).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (320).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (329).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (322).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (330).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (323).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (326).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (324).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (327).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (336).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (337).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (339).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (340).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (341).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (342).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (34).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (343).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (345).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (346).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (350).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (347).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (348).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (349).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (351).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (352).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (353).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (354).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (356).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (357).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (358).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (359).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (36).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (37).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (360).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (361).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (363).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (367).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (362).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (364).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (365).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (366).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (369).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (370).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (373).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (372).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (375).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (376).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (377).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (374).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (385).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (379).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (386).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (38).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (381).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (382).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (384).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (387).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (388).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (390).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (393).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (389).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (396).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (39).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (40).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (41).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (42).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (392).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (394).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (395).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (402).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (417).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (425).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (403).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (406).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (409).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (411).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (416).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (431).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (405).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (412).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (407).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (408).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (414).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (410).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (421).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (418).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (420).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (429).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (423).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (426).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (427).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (428).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (432).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (435).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (43).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (45).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (46).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (50).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (433).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (438).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (439).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (440).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (441).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (442).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (443).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (445).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (446).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (450).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (444).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (452).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (453).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (455).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (456).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (457).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (460).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (461).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (463).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (467).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (464).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (465).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (47).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (472).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (475).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (476).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (477).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (479).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (486).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (48).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (49).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (480).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (481).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (483).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (484).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (487).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (488).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (490).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (493).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (489).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (496).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (491).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (492).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (494).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (495).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (497).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (498).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (499).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (500).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (501).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (502).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (517).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (525).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (504).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (513).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (507).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (508).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (514).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (51).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (510).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (521).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (515).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (519).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (518).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (520).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (529).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (52).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (53).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (55).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (58).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (523).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (526).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (524).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (528).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (532).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (535).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (534).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (54).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (59).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (544).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (547).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (548).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (549).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (551).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (552).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (553).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (555).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (558).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (557).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (56).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (562).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (564).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (565).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (566).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (568).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (571).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (578).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (582).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (584).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (587).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (589).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (591).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (592).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (594).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (596).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (60).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (61).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (63).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (67).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (62).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (66).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (7).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (72).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (75).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (76).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (77).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (74).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (85).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (80).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (81).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (82).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (83).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (84).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (86).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (87).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (88).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (89).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (90).jpg
+train,Cerumen Impaction,1,Cerumen Impaction/ci (96).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (1).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (2).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (100).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (104).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (106).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (105).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (107).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (109).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (11).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (111).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (113).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (114).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (116).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (117).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (118).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (119).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (12).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (120).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (121).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (122).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (125).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (127).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (123).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (124).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (126).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (128).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (129).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (130).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (136).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (132).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (138).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (139).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (140).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (141).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (144).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (143).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (145).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (148).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (162).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (146).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (147).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (149).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (15).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (154).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (155).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (156).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (157).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (158).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (159).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (16).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (160).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (161).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (163).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (165).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (166).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (167).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (168).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (171).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (169).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (17).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (170).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (173).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (175).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (176).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (18).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (181).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (184).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (186).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (187).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (189).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (84).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (190).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (192).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (194).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (195).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (197).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (198).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (199).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (200).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (203).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (20).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (205).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (207).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (210).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (208).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (209).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (211).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (217).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (218).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (22).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (220).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (222).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (224).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (225).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (226).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (228).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (229).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (230).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (231).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (239).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (241).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (247).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (244).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (245).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (246).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (249).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (250).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (25).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (251).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (252).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (255).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (254).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (260).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (262).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (261).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (263).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (264).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (275).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (265).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (266).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (267).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (268).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (269).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (27).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (271).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (274).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (276).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (278).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (279).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (282).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (28).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (281).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (283).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (285).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (289).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (29).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (293).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (297).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (298).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (3).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (599).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (301).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (302).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (305).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (307).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (310).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (308).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (309).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (31).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (312).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (313).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (314).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (319).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (321).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (323).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (315).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (317).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (318).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (32).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (320).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (325).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (326).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (327).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (33).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (36).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (38).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (42).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (332).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (346).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (333).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (336).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (338).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (342).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (348).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (334).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (335).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (337).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (339).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (34).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (35).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (341).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (347).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (349).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (350).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (351).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (352).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (355).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (354).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (357).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (360).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (361).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (362).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (364).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (375).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (365).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (366).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (367).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (368).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (369).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (37).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (370).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (371).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (372).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (377).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (378).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (379).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (381).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (382).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (383).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (388).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (391).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (396).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (384).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (389).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (387).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (39).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (390).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (394).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (395).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (397).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (398).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (399).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (400).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (403).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (4).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (404).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (405).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (406).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (407).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (410).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (41).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (47).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (411).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (415).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (417).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (416).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (418).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (420).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (422).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (424).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (425).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (427).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (428).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (429).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (43).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (430).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (431).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (434).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (435).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (44).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (45).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (440).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (443).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (444).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (445).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (451).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (453).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (456).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (459).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (473).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (457).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (46).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (460).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (461).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (462).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (463).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (464).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (475).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (465).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (468).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (469).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (471).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (472).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (476).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (477).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (478).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (479).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (480).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (482).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (484).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (489).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (485).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (487).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (49).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (50).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (490).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (492).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (494).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (495).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (497).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (498).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (499).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (500).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (503).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (5).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (501).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (502).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (505).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (506).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (507).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (510).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (508).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (51).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (511).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (512).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (513).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (514).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (519).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (521).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (523).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (515).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (517).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (516).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (52).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (55).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (520).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (522).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (525).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (527).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (528).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (529).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (53).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (530).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (531).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (532).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (533).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (536).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (538).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (534).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (535).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (537).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (539).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (540).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (541).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (547).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (543).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (544).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (545).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (546).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (549).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (550).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (551).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (552).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (555).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (553).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (554).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (556).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (559).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (573).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (557).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (558).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (56).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (59).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (560).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (561).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (563).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (564).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (575).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (565).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (566).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (567).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (568).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (569).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (57).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (570).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (571).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (572).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (574).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (576).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (577).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (578).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (579).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (582).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (580).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (583).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (584).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (585).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (586).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (587).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (589).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (590).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (592).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (593).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (594).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (595).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (597).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (598).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (6).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (60).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (600).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (61).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (62).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (64).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (75).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (66).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (67).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (70).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (71).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (72).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (73).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (74).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (76).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (77).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (78).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (79).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (82).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (8).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (80).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (81).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (85).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (87).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (88).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (89).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (92).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (9).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (93).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (94).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (95).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (97).jpg
+train,Chronic Otitis Media,2,Chronic Otitis Media/com (98).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (1).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (2).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (3).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (4).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (5).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (598).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (599).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (6).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (600).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (7).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (10).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (9).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (101).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (106).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (107).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (108).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (110).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (111).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (113).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (109).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (112).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (114).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (116).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (117).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (132).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (12).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (17).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (18).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (120).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (121).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (122).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (125).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (123).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (124).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (127).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (129).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (133).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (135).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (137).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (140).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (141).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (142).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (146).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (182).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (145).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (148).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (15).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (16).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (153).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (155).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (159).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (163).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (157).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (161).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (162).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (164).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (171).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (166).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (167).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (174).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (168).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (169).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (175).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (177).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (183).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (184).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (185).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (188).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (189).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (190).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (191).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (192).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (193).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (53).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (57).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (196).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (197).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (20).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (209).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (210).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (212).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (217).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (218).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (219).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (221).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (222).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (224).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (214).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (220).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (223).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (225).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (226).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (229).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (230).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (260).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (227).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (235).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (228).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (243).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (23).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (232).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (233).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (236).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (240).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (242).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (238).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (244).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (245).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (246).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (249).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (25).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (250).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (251).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (252).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (253).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (257).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (293).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (255).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (256).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (258).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (261).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (263).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (265).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (267).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (262).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (264).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (266).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (270).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (274).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (269).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (27).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (35).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (271).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (275).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (282).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (276).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (287).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (278).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (285).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (28).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (43).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (280).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (281).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (283).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (284).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (286).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (288).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (29).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (291).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (296).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (298).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (299).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (300).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (301).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (302).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (303).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (304).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (305).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (306).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (307).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (309).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (310).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (31).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (311).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (313).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (312).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (317).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (318).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (319).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (321).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (322).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (324).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (315).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (316).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (32).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (33).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (36).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (40).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (42).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (320).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (323).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (325).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (326).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (329).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (330).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (360).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (327).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (328).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (343).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (332).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (333).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (336).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (340).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (342).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (334).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (337).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (339).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (341).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (347).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (338).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (34).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (345).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (348).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (349).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (350).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (352).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (353).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (357).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (393).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (354).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (355).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (356).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (358).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (361).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (363).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (365).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (367).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (371).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (366).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (370).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (374).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (368).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (369).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (37).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (39).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (41).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (47).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (377).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (378).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (385).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (379).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (380).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (381).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (383).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (384).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (386).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (389).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (390).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (391).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (392).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (394).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (395).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (396).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (397).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (398).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (399).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (400).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (401).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (402).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (403).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (404).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (405).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (406).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (407).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (408).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (409).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (410).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (411).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (413).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (412).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (417).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (418).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (419).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (421).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (422).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (424).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (420).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (426).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (429).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (430).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (460).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (427).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (428).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (443).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (432).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (433).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (436).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (440).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (442).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (434).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (435).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (437).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (439).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (441).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (447).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (438).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (44).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (444).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (445).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (446).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (448).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (449).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (452).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (453).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (457).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (493).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (454).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (456).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (458).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (461).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (463).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (465).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (467).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (471).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (462).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (464).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (468).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (469).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (475).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (482).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (477).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (478).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (485).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (48).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (481).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (483).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (484).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (486).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (488).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (489).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (490).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (494).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (495).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (497).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (508).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (509).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (510).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (51).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (515).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (516).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (52).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (520).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (527).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (528).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (543).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (531).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (532).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (533).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (536).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (535).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (537).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (539).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (541).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (547).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (538).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (54).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (544).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (545).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (546).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (549).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (55).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (550).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (551).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (553).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (557).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (593).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (554).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (556).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (558).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (559).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (56).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (561).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (563).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (565).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (567).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (571).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (566).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (570).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (574).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (568).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (572).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (573).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (575).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (582).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (577).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (58).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (581).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (583).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (584).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (586).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (589).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (590).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (591).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (592).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (594).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (595).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (596).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (597).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (61).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (63).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (65).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (67).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (71).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (64).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (66).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (70).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (74).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (68).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (69).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (77).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (79).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (8).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (80).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (81).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (83).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (84).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (82).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (86).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (87).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (88).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (89).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (90).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (91).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (92).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (93).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (94).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (95).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (96).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (98).jpg
+train,Myringosclerosis,3,Myringosclerosis/mys (99).jpg
+train,Normal,4,Normal/norm (1).jpg
+train,Normal,4,Normal/norm (5).jpg
+train,Normal,4,Normal/norm (10).jpg
+train,Normal,4,Normal/norm (3).jpg
+train,Normal,4,Normal/norm (6).jpg
+train,Normal,4,Normal/norm (7).jpg
+train,Normal,4,Normal/norm (8).jpg
+train,Normal,4,Normal/norm (100).jpg
+train,Normal,4,Normal/norm (102).jpg
+train,Normal,4,Normal/norm (103).jpg
+train,Normal,4,Normal/norm (107).jpg
+train,Normal,4,Normal/norm (101).jpg
+train,Normal,4,Normal/norm (104).jpg
+train,Normal,4,Normal/norm (110).jpg
+train,Normal,4,Normal/norm (114).jpg
+train,Normal,4,Normal/norm (120).jpg
+train,Normal,4,Normal/norm (123).jpg
+train,Normal,4,Normal/norm (105).jpg
+train,Normal,4,Normal/norm (106).jpg
+train,Normal,4,Normal/norm (134).jpg
+train,Normal,4,Normal/norm (108).jpg
+train,Normal,4,Normal/norm (118).jpg
+train,Normal,4,Normal/norm (109).jpg
+train,Normal,4,Normal/norm (115).jpg
+train,Normal,4,Normal/norm (116).jpg
+train,Normal,4,Normal/norm (119).jpg
+train,Normal,4,Normal/norm (12).jpg
+train,Normal,4,Normal/norm (122).jpg
+train,Normal,4,Normal/norm (124).jpg
+train,Normal,4,Normal/norm (125).jpg
+train,Normal,4,Normal/norm (131).jpg
+train,Normal,4,Normal/norm (126).jpg
+train,Normal,4,Normal/norm (127).jpg
+train,Normal,4,Normal/norm (137).jpg
+train,Normal,4,Normal/norm (140).jpg
+train,Normal,4,Normal/norm (141).jpg
+train,Normal,4,Normal/norm (129).jpg
+train,Normal,4,Normal/norm (132).jpg
+train,Normal,4,Normal/norm (147).jpg
+train,Normal,4,Normal/norm (133).jpg
+train,Normal,4,Normal/norm (135).jpg
+train,Normal,4,Normal/norm (144).jpg
+train,Normal,4,Normal/norm (136).jpg
+train,Normal,4,Normal/norm (138).jpg
+train,Normal,4,Normal/norm (139).jpg
+train,Normal,4,Normal/norm (145).jpg
+train,Normal,4,Normal/norm (15).jpg
+train,Normal,4,Normal/norm (21).jpg
+train,Normal,4,Normal/norm (25).jpg
+train,Normal,4,Normal/norm (31).jpg
+train,Normal,4,Normal/norm (34).jpg
+train,Normal,4,Normal/norm (150).jpg
+train,Normal,4,Normal/norm (151).jpg
+train,Normal,4,Normal/norm (153).jpg
+train,Normal,4,Normal/norm (154).jpg
+train,Normal,4,Normal/norm (157).jpg
+train,Normal,4,Normal/norm (158).jpg
+train,Normal,4,Normal/norm (160).jpg
+train,Normal,4,Normal/norm (162).jpg
+train,Normal,4,Normal/norm (161).jpg
+train,Normal,4,Normal/norm (164).jpg
+train,Normal,4,Normal/norm (167).jpg
+train,Normal,4,Normal/norm (165).jpg
+train,Normal,4,Normal/norm (166).jpg
+train,Normal,4,Normal/norm (168).jpg
+train,Normal,4,Normal/norm (169).jpg
+train,Normal,4,Normal/norm (171).jpg
+train,Normal,4,Normal/norm (172).jpg
+train,Normal,4,Normal/norm (178).jpg
+train,Normal,4,Normal/norm (170).jpg
+train,Normal,4,Normal/norm (173).jpg
+train,Normal,4,Normal/norm (177).jpg
+train,Normal,4,Normal/norm (179).jpg
+train,Normal,4,Normal/norm (181).jpg
+train,Normal,4,Normal/norm (180).jpg
+train,Normal,4,Normal/norm (183).jpg
+train,Normal,4,Normal/norm (185).jpg
+train,Normal,4,Normal/norm (186).jpg
+train,Normal,4,Normal/norm (187).jpg
+train,Normal,4,Normal/norm (85).jpg
+train,Normal,4,Normal/norm (188).jpg
+train,Normal,4,Normal/norm (189).jpg
+train,Normal,4,Normal/norm (76).jpg
+train,Normal,4,Normal/norm (77).jpg
+train,Normal,4,Normal/norm (80).jpg
+train,Normal,4,Normal/norm (83).jpg
+train,Normal,4,Normal/norm (19).jpg
+train,Normal,4,Normal/norm (29).jpg
+train,Normal,4,Normal/norm (190).jpg
+train,Normal,4,Normal/norm (192).jpg
+train,Normal,4,Normal/norm (191).jpg
+train,Normal,4,Normal/norm (193).jpg
+train,Normal,4,Normal/norm (195).jpg
+train,Normal,4,Normal/norm (196).jpg
+train,Normal,4,Normal/norm (197).jpg
+train,Normal,4,Normal/norm (199).jpg
+train,Normal,4,Normal/norm (200).jpg
+train,Normal,4,Normal/norm (198).jpg
+train,Normal,4,Normal/norm (2).jpg
+train,Normal,4,Normal/norm (20).jpg
+train,Normal,4,Normal/norm (26).jpg
+train,Normal,4,Normal/norm (27).jpg
+train,Normal,4,Normal/norm (201).jpg
+train,Normal,4,Normal/norm (205).jpg
+train,Normal,4,Normal/norm (203).jpg
+train,Normal,4,Normal/norm (204).jpg
+train,Normal,4,Normal/norm (211).jpg
+train,Normal,4,Normal/norm (213).jpg
+train,Normal,4,Normal/norm (214).jpg
+train,Normal,4,Normal/norm (218).jpg
+train,Normal,4,Normal/norm (236).jpg
+train,Normal,4,Normal/norm (240).jpg
+train,Normal,4,Normal/norm (242).jpg
+train,Normal,4,Normal/norm (215).jpg
+train,Normal,4,Normal/norm (221).jpg
+train,Normal,4,Normal/norm (225).jpg
+train,Normal,4,Normal/norm (231).jpg
+train,Normal,4,Normal/norm (234).jpg
+train,Normal,4,Normal/norm (216).jpg
+train,Normal,4,Normal/norm (219).jpg
+train,Normal,4,Normal/norm (229).jpg
+train,Normal,4,Normal/norm (22).jpg
+train,Normal,4,Normal/norm (24).jpg
+train,Normal,4,Normal/norm (28).jpg
+train,Normal,4,Normal/norm (32).jpg
+train,Normal,4,Normal/norm (9).jpg
+train,Normal,4,Normal/norm (220).jpg
+train,Normal,4,Normal/norm (226).jpg
+train,Normal,4,Normal/norm (227).jpg
+train,Normal,4,Normal/norm (23).jpg
+train,Normal,4,Normal/norm (235).jpg
+train,Normal,4,Normal/norm (241).jpg
+train,Normal,4,Normal/norm (243).jpg
+train,Normal,4,Normal/norm (258).jpg
+train,Normal,4,Normal/norm (244).jpg
+train,Normal,4,Normal/norm (246).jpg
+train,Normal,4,Normal/norm (255).jpg
+train,Normal,4,Normal/norm (249).jpg
+train,Normal,4,Normal/norm (250).jpg
+train,Normal,4,Normal/norm (256).jpg
+train,Normal,4,Normal/norm (259).jpg
+train,Normal,4,Normal/norm (260).jpg
+train,Normal,4,Normal/norm (261).jpg
+train,Normal,4,Normal/norm (262).jpg
+train,Normal,4,Normal/norm (264).jpg
+train,Normal,4,Normal/norm (263).jpg
+train,Normal,4,Normal/norm (293).jpg
+train,Normal,4,Normal/norm (265).jpg
+train,Normal,4,Normal/norm (266).jpg
+train,Normal,4,Normal/norm (268).jpg
+train,Normal,4,Normal/norm (269).jpg
+train,Normal,4,Normal/norm (270).jpg
+train,Normal,4,Normal/norm (271).jpg
+train,Normal,4,Normal/norm (273).jpg
+train,Normal,4,Normal/norm (274).jpg
+train,Normal,4,Normal/norm (275).jpg
+train,Normal,4,Normal/norm (278).jpg
+train,Normal,4,Normal/norm (284).jpg
+train,Normal,4,Normal/norm (288).jpg
+train,Normal,4,Normal/norm (291).jpg
+train,Normal,4,Normal/norm (295).jpg
+train,Normal,4,Normal/norm (296).jpg
+train,Normal,4,Normal/norm (297).jpg
+train,Normal,4,Normal/norm (299).jpg
+train,Normal,4,Normal/norm (300).jpg
+train,Normal,4,Normal/norm (30).jpg
+train,Normal,4,Normal/norm (301).jpg
+train,Normal,4,Normal/norm (305).jpg
+train,Normal,4,Normal/norm (302).jpg
+train,Normal,4,Normal/norm (304).jpg
+train,Normal,4,Normal/norm (309).jpg
+train,Normal,4,Normal/norm (322).jpg
+train,Normal,4,Normal/norm (324).jpg
+train,Normal,4,Normal/norm (328).jpg
+train,Normal,4,Normal/norm (332).jpg
+train,Normal,4,Normal/norm (316).jpg
+train,Normal,4,Normal/norm (317).jpg
+train,Normal,4,Normal/norm (345).jpg
+train,Normal,4,Normal/norm (319).jpg
+train,Normal,4,Normal/norm (329).jpg
+train,Normal,4,Normal/norm (320).jpg
+train,Normal,4,Normal/norm (326).jpg
+train,Normal,4,Normal/norm (327).jpg
+train,Normal,4,Normal/norm (323).jpg
+train,Normal,4,Normal/norm (33).jpg
+train,Normal,4,Normal/norm (330).jpg
+train,Normal,4,Normal/norm (333).jpg
+train,Normal,4,Normal/norm (337).jpg
+train,Normal,4,Normal/norm (338).jpg
+train,Normal,4,Normal/norm (348).jpg
+train,Normal,4,Normal/norm (351).jpg
+train,Normal,4,Normal/norm (352).jpg
+train,Normal,4,Normal/norm (339).jpg
+train,Normal,4,Normal/norm (353).jpg
+train,Normal,4,Normal/norm (354).jpg
+train,Normal,4,Normal/norm (341).jpg
+train,Normal,4,Normal/norm (343).jpg
+train,Normal,4,Normal/norm (344).jpg
+train,Normal,4,Normal/norm (346).jpg
+train,Normal,4,Normal/norm (355).jpg
+train,Normal,4,Normal/norm (35).jpg
+train,Normal,4,Normal/norm (356).jpg
+train,Normal,4,Normal/norm (357).jpg
+train,Normal,4,Normal/norm (358).jpg
+train,Normal,4,Normal/norm (360).jpg
+train,Normal,4,Normal/norm (366).jpg
+train,Normal,4,Normal/norm (367).jpg
+train,Normal,4,Normal/norm (369).jpg
+train,Normal,4,Normal/norm (37).jpg
+train,Normal,4,Normal/norm (370).jpg
+train,Normal,4,Normal/norm (372).jpg
+train,Normal,4,Normal/norm (374).jpg
+train,Normal,4,Normal/norm (376).jpg
+train,Normal,4,Normal/norm (377).jpg
+train,Normal,4,Normal/norm (380).jpg
+train,Normal,4,Normal/norm (383).jpg
+train,Normal,4,Normal/norm (389).jpg
+train,Normal,4,Normal/norm (379).jpg
+train,Normal,4,Normal/norm (382).jpg
+train,Normal,4,Normal/norm (38).jpg
+train,Normal,4,Normal/norm (48).jpg
+train,Normal,4,Normal/norm (51).jpg
+train,Normal,4,Normal/norm (52).jpg
+train,Normal,4,Normal/norm (381).jpg
+train,Normal,4,Normal/norm (384).jpg
+train,Normal,4,Normal/norm (385).jpg
+train,Normal,4,Normal/norm (386).jpg
+train,Normal,4,Normal/norm (387).jpg
+train,Normal,4,Normal/norm (388).jpg
+train,Normal,4,Normal/norm (390).jpg
+train,Normal,4,Normal/norm (392).jpg
+train,Normal,4,Normal/norm (391).jpg
+train,Normal,4,Normal/norm (393).jpg
+train,Normal,4,Normal/norm (394).jpg
+train,Normal,4,Normal/norm (395).jpg
+train,Normal,4,Normal/norm (398).jpg
+train,Normal,4,Normal/norm (4).jpg
+train,Normal,4,Normal/norm (402).jpg
+train,Normal,4,Normal/norm (404).jpg
+train,Normal,4,Normal/norm (406).jpg
+train,Normal,4,Normal/norm (407).jpg
+train,Normal,4,Normal/norm (408).jpg
+train,Normal,4,Normal/norm (410).jpg
+train,Normal,4,Normal/norm (409).jpg
+train,Normal,4,Normal/norm (422).jpg
+train,Normal,4,Normal/norm (424).jpg
+train,Normal,4,Normal/norm (428).jpg
+train,Normal,4,Normal/norm (432).jpg
+train,Normal,4,Normal/norm (412).jpg
+train,Normal,4,Normal/norm (416).jpg
+train,Normal,4,Normal/norm (417).jpg
+train,Normal,4,Normal/norm (445).jpg
+train,Normal,4,Normal/norm (420).jpg
+train,Normal,4,Normal/norm (423).jpg
+train,Normal,4,Normal/norm (426).jpg
+train,Normal,4,Normal/norm (427).jpg
+train,Normal,4,Normal/norm (43).jpg
+train,Normal,4,Normal/norm (58).jpg
+train,Normal,4,Normal/norm (433).jpg
+train,Normal,4,Normal/norm (435).jpg
+train,Normal,4,Normal/norm (436).jpg
+train,Normal,4,Normal/norm (440).jpg
+train,Normal,4,Normal/norm (442).jpg
+train,Normal,4,Normal/norm (437).jpg
+train,Normal,4,Normal/norm (438).jpg
+train,Normal,4,Normal/norm (448).jpg
+train,Normal,4,Normal/norm (451).jpg
+train,Normal,4,Normal/norm (452).jpg
+train,Normal,4,Normal/norm (439).jpg
+train,Normal,4,Normal/norm (453).jpg
+train,Normal,4,Normal/norm (454).jpg
+train,Normal,4,Normal/norm (44).jpg
+train,Normal,4,Normal/norm (441).jpg
+train,Normal,4,Normal/norm (443).jpg
+train,Normal,4,Normal/norm (444).jpg
+train,Normal,4,Normal/norm (446).jpg
+train,Normal,4,Normal/norm (455).jpg
+train,Normal,4,Normal/norm (447).jpg
+train,Normal,4,Normal/norm (449).jpg
+train,Normal,4,Normal/norm (450).jpg
+train,Normal,4,Normal/norm (456).jpg
+train,Normal,4,Normal/norm (457).jpg
+train,Normal,4,Normal/norm (458).jpg
+train,Normal,4,Normal/norm (46).jpg
+train,Normal,4,Normal/norm (55).jpg
+train,Normal,4,Normal/norm (460).jpg
+train,Normal,4,Normal/norm (461).jpg
+train,Normal,4,Normal/norm (463).jpg
+train,Normal,4,Normal/norm (465).jpg
+train,Normal,4,Normal/norm (468).jpg
+train,Normal,4,Normal/norm (466).jpg
+train,Normal,4,Normal/norm (467).jpg
+train,Normal,4,Normal/norm (469).jpg
+train,Normal,4,Normal/norm (47).jpg
+train,Normal,4,Normal/norm (470).jpg
+train,Normal,4,Normal/norm (472).jpg
+train,Normal,4,Normal/norm (476).jpg
+train,Normal,4,Normal/norm (477).jpg
+train,Normal,4,Normal/norm (480).jpg
+train,Normal,4,Normal/norm (483).jpg
+train,Normal,4,Normal/norm (489).jpg
+train,Normal,4,Normal/norm (479).jpg
+train,Normal,4,Normal/norm (482).jpg
+train,Normal,4,Normal/norm (481).jpg
+train,Normal,4,Normal/norm (484).jpg
+train,Normal,4,Normal/norm (488).jpg
+train,Normal,4,Normal/norm (49).jpg
+train,Normal,4,Normal/norm (491).jpg
+train,Normal,4,Normal/norm (494).jpg
+train,Normal,4,Normal/norm (495).jpg
+train,Normal,4,Normal/norm (496).jpg
+train,Normal,4,Normal/norm (499).jpg
+train,Normal,4,Normal/norm (50).jpg
+train,Normal,4,Normal/norm (500).jpg
+train,Normal,4,Normal/norm (501).jpg
+train,Normal,4,Normal/norm (505).jpg
+train,Normal,4,Normal/norm (503).jpg
+train,Normal,4,Normal/norm (506).jpg
+train,Normal,4,Normal/norm (507).jpg
+train,Normal,4,Normal/norm (508).jpg
+train,Normal,4,Normal/norm (510).jpg
+train,Normal,4,Normal/norm (509).jpg
+train,Normal,4,Normal/norm (511).jpg
+train,Normal,4,Normal/norm (513).jpg
+train,Normal,4,Normal/norm (514).jpg
+train,Normal,4,Normal/norm (518).jpg
+train,Normal,4,Normal/norm (515).jpg
+train,Normal,4,Normal/norm (521).jpg
+train,Normal,4,Normal/norm (525).jpg
+train,Normal,4,Normal/norm (531).jpg
+train,Normal,4,Normal/norm (534).jpg
+train,Normal,4,Normal/norm (517).jpg
+train,Normal,4,Normal/norm (545).jpg
+train,Normal,4,Normal/norm (519).jpg
+train,Normal,4,Normal/norm (529).jpg
+train,Normal,4,Normal/norm (520).jpg
+train,Normal,4,Normal/norm (522).jpg
+train,Normal,4,Normal/norm (524).jpg
+train,Normal,4,Normal/norm (528).jpg
+train,Normal,4,Normal/norm (532).jpg
+train,Normal,4,Normal/norm (523).jpg
+train,Normal,4,Normal/norm (526).jpg
+train,Normal,4,Normal/norm (527).jpg
+train,Normal,4,Normal/norm (530).jpg
+train,Normal,4,Normal/norm (533).jpg
+train,Normal,4,Normal/norm (535).jpg
+train,Normal,4,Normal/norm (537).jpg
+train,Normal,4,Normal/norm (538).jpg
+train,Normal,4,Normal/norm (548).jpg
+train,Normal,4,Normal/norm (551).jpg
+train,Normal,4,Normal/norm (552).jpg
+train,Normal,4,Normal/norm (539).jpg
+train,Normal,4,Normal/norm (553).jpg
+train,Normal,4,Normal/norm (554).jpg
+train,Normal,4,Normal/norm (541).jpg
+train,Normal,4,Normal/norm (544).jpg
+train,Normal,4,Normal/norm (547).jpg
+train,Normal,4,Normal/norm (549).jpg
+train,Normal,4,Normal/norm (557).jpg
+train,Normal,4,Normal/norm (56).jpg
+train,Normal,4,Normal/norm (560).jpg
+train,Normal,4,Normal/norm (561).jpg
+train,Normal,4,Normal/norm (565).jpg
+train,Normal,4,Normal/norm (568).jpg
+train,Normal,4,Normal/norm (569).jpg
+train,Normal,4,Normal/norm (567).jpg
+train,Normal,4,Normal/norm (575).jpg
+train,Normal,4,Normal/norm (578).jpg
+train,Normal,4,Normal/norm (576).jpg
+train,Normal,4,Normal/norm (577).jpg
+train,Normal,4,Normal/norm (579).jpg
+train,Normal,4,Normal/norm (580).jpg
+train,Normal,4,Normal/norm (582).jpg
+train,Normal,4,Normal/norm (583).jpg
+train,Normal,4,Normal/norm (589).jpg
+train,Normal,4,Normal/norm (584).jpg
+train,Normal,4,Normal/norm (585).jpg
+train,Normal,4,Normal/norm (586).jpg
+train,Normal,4,Normal/norm (587).jpg
+train,Normal,4,Normal/norm (588).jpg
+train,Normal,4,Normal/norm (59).jpg
+train,Normal,4,Normal/norm (590).jpg
+train,Normal,4,Normal/norm (592).jpg
+train,Normal,4,Normal/norm (591).jpg
+train,Normal,4,Normal/norm (594).jpg
+train,Normal,4,Normal/norm (595).jpg
+train,Normal,4,Normal/norm (596).jpg
+train,Normal,4,Normal/norm (597).jpg
+train,Normal,4,Normal/norm (599).jpg
+train,Normal,4,Normal/norm (600).jpg
+train,Normal,4,Normal/norm (60).jpg
+train,Normal,4,Normal/norm (62).jpg
+train,Normal,4,Normal/norm (64).jpg
+train,Normal,4,Normal/norm (63).jpg
+train,Normal,4,Normal/norm (65).jpg
+train,Normal,4,Normal/norm (66).jpg
+train,Normal,4,Normal/norm (68).jpg
+train,Normal,4,Normal/norm (69).jpg
+train,Normal,4,Normal/norm (70).jpg
+train,Normal,4,Normal/norm (67).jpg
+train,Normal,4,Normal/norm (71).jpg
+train,Normal,4,Normal/norm (73).jpg
+train,Normal,4,Normal/norm (75).jpg
+train,Normal,4,Normal/norm (78).jpg
+train,Normal,4,Normal/norm (72).jpg
+train,Normal,4,Normal/norm (74).jpg
+train,Normal,4,Normal/norm (79).jpg
+train,Normal,4,Normal/norm (82).jpg
+train,Normal,4,Normal/norm (81).jpg
+train,Normal,4,Normal/norm (86).jpg
+train,Normal,4,Normal/norm (88).jpg
+train,Normal,4,Normal/norm (87).jpg
+train,Normal,4,Normal/norm (89).jpg
+train,Normal,4,Normal/norm (90).jpg
+train,Normal,4,Normal/norm (94).jpg
+train,Normal,4,Normal/norm (92).jpg
+train,Normal,4,Normal/norm (95).jpg
+train,Normal,4,Normal/norm (96).jpg
+train,Normal,4,Normal/norm (97).jpg
+train,Normal,4,Normal/norm (99).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (1).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (100).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (103).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (107).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (112).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (119).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (137).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (140).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (144).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (153).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (183).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (187).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (193).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (200).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (202).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (203).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (212).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (24).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (248).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (25).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (299).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (3).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (305).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (308).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (309).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (320).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (347).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (33).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (340).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (345).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (354).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (358).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (37).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (374).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (381).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (384).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (388).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (398).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (413).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (418).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (423).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (425).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (44).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (440).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (453).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (456).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (46).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (469).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (477).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (482).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (490).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (492).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (5).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (518).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (520).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (547).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (541).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (542).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (545).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (550).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (551).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (564).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (566).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (568).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (571).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (572).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (574).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (579).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (585).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (587).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (590).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (599).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (61).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (66).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (69).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (77).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (92).jpg
+val,Acute Otitis Media,0,Acute Otitis Media/aom (99).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (103).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (97).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (149).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (150).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (152).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (156).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (17).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (2).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (25).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (177).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (179).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (182).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (18).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (20).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (29).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (183).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (204).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (213).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (22).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (27).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (30).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (228).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (232).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (235).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (239).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (240).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (241).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (242).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (254).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (28).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (32).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (33).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (35).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (288).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (293).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (334).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (380).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (391).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (422).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (430).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (424).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (436).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (437).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (447).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (448).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (449).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (451).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (458).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (469).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (470).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (473).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (471).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (478).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (474).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (485).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (482).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (503).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (506).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (509).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (511).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (516).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (531).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (522).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (527).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (530).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (539).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (540).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (541).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (542).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (543).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (545).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (546).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (550).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (560).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (561).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (563).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (567).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (572).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (574).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (575).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (576).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (577).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (583).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (585).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (580).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (581).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (595).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (69).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (70).jpg
+val,Cerumen Impaction,1,Cerumen Impaction/ci (73).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (10).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (7).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (13).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (14).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (19).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (131).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (137).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (133).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (134).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (135).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (150).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (177).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (180).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (185).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (178).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (182).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (183).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (193).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (201).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (202).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (204).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (206).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (213).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (214).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (215).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (219).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (221).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (223).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (233).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (236).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (238).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (242).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (248).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (234).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (235).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (24).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (243).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (253).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (272).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (286).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (287).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (290).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (292).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (294).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (299).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (300).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (303).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (30).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (304).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (311).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (316).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (322).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (324).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (328).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (329).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (331).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (343).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (344).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (345).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (353).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (363).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (380).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (385).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (386).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (40).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (401).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (402).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (412).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (426).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (432).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (446).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (433).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (436).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (438).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (442).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (448).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (452).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (455).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (454).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (470).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (48).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (481).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (486).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (504).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (526).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (63).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (69).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (86).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (96).jpg
+val,Chronic Otitis Media,2,Chronic Otitis Media/com (99).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (11).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (13).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (126).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (128).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (130).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (136).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (138).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (143).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (147).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (150).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (152).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (154).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (156).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (160).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (151).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (186).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (19).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (21).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (22).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (24).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (198).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (199).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (200).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (201).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (202).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (203).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (204).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (205).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (206).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (207).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (208).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (211).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (213).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (231).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (234).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (237).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (239).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (241).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (247).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (248).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (268).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (289).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (290).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (308).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (331).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (351).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (359).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (372).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (373).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (375).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (382).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (388).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (415).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (416).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (425).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (431).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (451).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (459).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (46).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (466).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (470).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (474).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (479).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (480).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (512).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (517).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (518).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (519).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (521).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (522).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (524).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (514).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (523).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (525).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (526).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (529).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (530).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (560).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (540).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (555).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (569).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (578).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (585).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (579).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (588).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (62).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (72).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (73).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (75).jpg
+val,Myringosclerosis,3,Myringosclerosis/mys (97).jpg
+val,Normal,4,Normal/norm (112).jpg
+val,Normal,4,Normal/norm (128).jpg
+val,Normal,4,Normal/norm (142).jpg
+val,Normal,4,Normal/norm (143).jpg
+val,Normal,4,Normal/norm (130).jpg
+val,Normal,4,Normal/norm (146).jpg
+val,Normal,4,Normal/norm (148).jpg
+val,Normal,4,Normal/norm (149).jpg
+val,Normal,4,Normal/norm (152).jpg
+val,Normal,4,Normal/norm (182).jpg
+val,Normal,4,Normal/norm (155).jpg
+val,Normal,4,Normal/norm (159).jpg
+val,Normal,4,Normal/norm (184).jpg
+val,Normal,4,Normal/norm (202).jpg
+val,Normal,4,Normal/norm (206).jpg
+val,Normal,4,Normal/norm (207).jpg
+val,Normal,4,Normal/norm (208).jpg
+val,Normal,4,Normal/norm (210).jpg
+val,Normal,4,Normal/norm (223).jpg
+val,Normal,4,Normal/norm (230).jpg
+val,Normal,4,Normal/norm (233).jpg
+val,Normal,4,Normal/norm (247).jpg
+val,Normal,4,Normal/norm (267).jpg
+val,Normal,4,Normal/norm (272).jpg
+val,Normal,4,Normal/norm (281).jpg
+val,Normal,4,Normal/norm (290).jpg
+val,Normal,4,Normal/norm (292).jpg
+val,Normal,4,Normal/norm (298).jpg
+val,Normal,4,Normal/norm (311).jpg
+val,Normal,4,Normal/norm (313).jpg
+val,Normal,4,Normal/norm (314).jpg
+val,Normal,4,Normal/norm (318).jpg
+val,Normal,4,Normal/norm (312).jpg
+val,Normal,4,Normal/norm (315).jpg
+val,Normal,4,Normal/norm (321).jpg
+val,Normal,4,Normal/norm (325).jpg
+val,Normal,4,Normal/norm (331).jpg
+val,Normal,4,Normal/norm (334).jpg
+val,Normal,4,Normal/norm (336).jpg
+val,Normal,4,Normal/norm (340).jpg
+val,Normal,4,Normal/norm (342).jpg
+val,Normal,4,Normal/norm (359).jpg
+val,Normal,4,Normal/norm (36).jpg
+val,Normal,4,Normal/norm (40).jpg
+val,Normal,4,Normal/norm (42).jpg
+val,Normal,4,Normal/norm (361).jpg
+val,Normal,4,Normal/norm (362).jpg
+val,Normal,4,Normal/norm (364).jpg
+val,Normal,4,Normal/norm (363).jpg
+val,Normal,4,Normal/norm (365).jpg
+val,Normal,4,Normal/norm (368).jpg
+val,Normal,4,Normal/norm (371).jpg
+val,Normal,4,Normal/norm (373).jpg
+val,Normal,4,Normal/norm (375).jpg
+val,Normal,4,Normal/norm (378).jpg
+val,Normal,4,Normal/norm (397).jpg
+val,Normal,4,Normal/norm (399).jpg
+val,Normal,4,Normal/norm (400).jpg
+val,Normal,4,Normal/norm (401).jpg
+val,Normal,4,Normal/norm (403).jpg
+val,Normal,4,Normal/norm (411).jpg
+val,Normal,4,Normal/norm (413).jpg
+val,Normal,4,Normal/norm (414).jpg
+val,Normal,4,Normal/norm (418).jpg
+val,Normal,4,Normal/norm (419).jpg
+val,Normal,4,Normal/norm (429).jpg
+val,Normal,4,Normal/norm (430).jpg
+val,Normal,4,Normal/norm (459).jpg
+val,Normal,4,Normal/norm (474).jpg
+val,Normal,4,Normal/norm (493).jpg
+val,Normal,4,Normal/norm (497).jpg
+val,Normal,4,Normal/norm (502).jpg
+val,Normal,4,Normal/norm (504).jpg
+val,Normal,4,Normal/norm (536).jpg
+val,Normal,4,Normal/norm (542).jpg
+val,Normal,4,Normal/norm (540).jpg
+val,Normal,4,Normal/norm (543).jpg
+val,Normal,4,Normal/norm (558).jpg
+val,Normal,4,Normal/norm (546).jpg
+val,Normal,4,Normal/norm (555).jpg
+val,Normal,4,Normal/norm (550).jpg
+val,Normal,4,Normal/norm (562).jpg
+val,Normal,4,Normal/norm (564).jpg
+val,Normal,4,Normal/norm (563).jpg
+val,Normal,4,Normal/norm (593).jpg
+val,Normal,4,Normal/norm (57).jpg
+val,Normal,4,Normal/norm (571).jpg
+val,Normal,4,Normal/norm (573).jpg
+val,Normal,4,Normal/norm (574).jpg
+val,Normal,4,Normal/norm (98).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (109).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (136).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (114).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (116).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (145).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (146).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (154).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (17).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (170).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (18).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (186).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (190).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (192).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (20).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (47).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (204).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (205).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (209).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (211).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (214).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (215).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (23).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (57).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (230).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (233).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (234).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (246).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (255).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (256).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (262).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (266).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (27).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (278).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (279).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (280).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (286).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (292).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (294).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (295).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (31).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (330).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (351).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (379).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (382).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (390).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (394).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (396).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (403).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (407).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (408).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (422).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (424).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (427).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (457).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (476).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (478).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (480).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (489).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (493).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (495).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (504).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (51).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (512).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (517).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (524).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (527).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (533).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (54).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (553).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (556).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (56).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (560).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (562).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (569).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (578).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (65).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (79).jpg
+test,Acute Otitis Media,0,Acute Otitis Media/aom (83).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (102).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (93).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (111).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (116).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (119).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (127).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (13).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (4).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (153).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (154).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (155).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (160).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (167).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (168).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (176).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (195).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (203).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (206).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (209).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (211).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (216).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (231).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (207).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (223).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (226).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (256).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (257).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (260).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (261).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (263).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (267).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (264).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (265).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (266).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (271).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (278).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (282).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (284).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (286).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (328).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (332).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (335).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (333).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (338).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (344).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (355).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (368).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (371).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (378).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (383).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (397).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (398).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (399).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (400).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (401).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (404).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (413).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (415).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (419).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (434).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (44).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (454).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (459).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (462).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (466).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (468).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (505).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (512).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (533).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (538).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (536).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (537).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (554).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (559).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (556).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (569).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (570).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (573).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (57).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (579).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (586).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (588).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (590).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (593).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (64).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (65).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (68).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (71).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (78).jpg
+test,Cerumen Impaction,1,Cerumen Impaction/ci (79).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (101).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (102).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (103).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (108).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (110).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (112).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (115).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (142).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (151).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (152).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (153).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (164).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (172).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (174).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (179).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (188).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (191).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (196).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (83).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (21).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (23).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (212).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (216).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (227).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (232).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (237).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (240).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (256).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (259).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (257).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (258).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (26).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (270).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (273).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (277).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (280).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (284).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (288).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (291).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (296).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (295).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (306).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (330).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (340).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (356).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (359).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (373).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (358).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (374).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (376).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (392).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (393).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (408).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (409).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (413).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (414).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (419).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (421).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (423).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (437).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (439).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (441).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (447).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (449).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (450).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (458).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (466).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (467).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (474).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (483).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (488).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (491).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (496).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (493).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (509).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (518).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (524).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (54).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (542).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (548).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (562).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (58).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (581).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (588).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (591).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (596).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (65).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (68).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (90).jpg
+test,Chronic Otitis Media,2,Chronic Otitis Media/com (91).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (100).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (102).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (103).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (104).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (105).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (115).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (118).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (119).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (149).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (131).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (134).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (139).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (14).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (144).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (158).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (165).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (176).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (170).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (172).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (173).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (178).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (179).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (180).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (181).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (187).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (76).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (194).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (195).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (215).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (216).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (254).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (259).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (26).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (30).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (60).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (272).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (273).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (277).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (279).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (292).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (294).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (295).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (297).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (314).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (335).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (344).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (346).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (362).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (364).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (376).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (387).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (38).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (414).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (423).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (45).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (450).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (455).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (472).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (473).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (476).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (487).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (49).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (491).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (492).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (496).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (498).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (499).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (500).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (501).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (502).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (503).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (504).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (505).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (506).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (507).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (50).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (511).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (513).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (534).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (542).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (548).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (552).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (562).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (564).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (576).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (587).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (580).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (59).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (78).jpg
+test,Myringosclerosis,3,Myringosclerosis/mys (85).jpg
+test,Normal,4,Normal/norm (11).jpg
+test,Normal,4,Normal/norm (13).jpg
+test,Normal,4,Normal/norm (14).jpg
+test,Normal,4,Normal/norm (18).jpg
+test,Normal,4,Normal/norm (111).jpg
+test,Normal,4,Normal/norm (113).jpg
+test,Normal,4,Normal/norm (117).jpg
+test,Normal,4,Normal/norm (121).jpg
+test,Normal,4,Normal/norm (156).jpg
+test,Normal,4,Normal/norm (16).jpg
+test,Normal,4,Normal/norm (163).jpg
+test,Normal,4,Normal/norm (17).jpg
+test,Normal,4,Normal/norm (45).jpg
+test,Normal,4,Normal/norm (174).jpg
+test,Normal,4,Normal/norm (175).jpg
+test,Normal,4,Normal/norm (176).jpg
+test,Normal,4,Normal/norm (194).jpg
+test,Normal,4,Normal/norm (209).jpg
+test,Normal,4,Normal/norm (222).jpg
+test,Normal,4,Normal/norm (224).jpg
+test,Normal,4,Normal/norm (228).jpg
+test,Normal,4,Normal/norm (232).jpg
+test,Normal,4,Normal/norm (212).jpg
+test,Normal,4,Normal/norm (217).jpg
+test,Normal,4,Normal/norm (245).jpg
+test,Normal,4,Normal/norm (237).jpg
+test,Normal,4,Normal/norm (238).jpg
+test,Normal,4,Normal/norm (248).jpg
+test,Normal,4,Normal/norm (251).jpg
+test,Normal,4,Normal/norm (252).jpg
+test,Normal,4,Normal/norm (239).jpg
+test,Normal,4,Normal/norm (253).jpg
+test,Normal,4,Normal/norm (254).jpg
+test,Normal,4,Normal/norm (257).jpg
+test,Normal,4,Normal/norm (276).jpg
+test,Normal,4,Normal/norm (277).jpg
+test,Normal,4,Normal/norm (279).jpg
+test,Normal,4,Normal/norm (280).jpg
+test,Normal,4,Normal/norm (282).jpg
+test,Normal,4,Normal/norm (283).jpg
+test,Normal,4,Normal/norm (289).jpg
+test,Normal,4,Normal/norm (285).jpg
+test,Normal,4,Normal/norm (286).jpg
+test,Normal,4,Normal/norm (287).jpg
+test,Normal,4,Normal/norm (294).jpg
+test,Normal,4,Normal/norm (303).jpg
+test,Normal,4,Normal/norm (306).jpg
+test,Normal,4,Normal/norm (307).jpg
+test,Normal,4,Normal/norm (308).jpg
+test,Normal,4,Normal/norm (310).jpg
+test,Normal,4,Normal/norm (335).jpg
+test,Normal,4,Normal/norm (347).jpg
+test,Normal,4,Normal/norm (349).jpg
+test,Normal,4,Normal/norm (350).jpg
+test,Normal,4,Normal/norm (39).jpg
+test,Normal,4,Normal/norm (53).jpg
+test,Normal,4,Normal/norm (54).jpg
+test,Normal,4,Normal/norm (396).jpg
+test,Normal,4,Normal/norm (405).jpg
+test,Normal,4,Normal/norm (41).jpg
+test,Normal,4,Normal/norm (415).jpg
+test,Normal,4,Normal/norm (421).jpg
+test,Normal,4,Normal/norm (425).jpg
+test,Normal,4,Normal/norm (431).jpg
+test,Normal,4,Normal/norm (434).jpg
+test,Normal,4,Normal/norm (462).jpg
+test,Normal,4,Normal/norm (464).jpg
+test,Normal,4,Normal/norm (471).jpg
+test,Normal,4,Normal/norm (473).jpg
+test,Normal,4,Normal/norm (475).jpg
+test,Normal,4,Normal/norm (478).jpg
+test,Normal,4,Normal/norm (485).jpg
+test,Normal,4,Normal/norm (486).jpg
+test,Normal,4,Normal/norm (487).jpg
+test,Normal,4,Normal/norm (490).jpg
+test,Normal,4,Normal/norm (492).jpg
+test,Normal,4,Normal/norm (498).jpg
+test,Normal,4,Normal/norm (512).jpg
+test,Normal,4,Normal/norm (516).jpg
+test,Normal,4,Normal/norm (556).jpg
+test,Normal,4,Normal/norm (559).jpg
+test,Normal,4,Normal/norm (566).jpg
+test,Normal,4,Normal/norm (570).jpg
+test,Normal,4,Normal/norm (572).jpg
+test,Normal,4,Normal/norm (581).jpg
+test,Normal,4,Normal/norm (598).jpg
+test,Normal,4,Normal/norm (61).jpg
+test,Normal,4,Normal/norm (84).jpg
+test,Normal,4,Normal/norm (91).jpg
+test,Normal,4,Normal/norm (93).jpg

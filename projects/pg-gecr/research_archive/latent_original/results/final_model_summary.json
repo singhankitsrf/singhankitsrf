@@ -1,0 +1,39 @@
+{
+  "temperature": 0.9599693706446065,
+  "metrics": {
+    "accuracy": 0.7211538461538461,
+    "balanced_accuracy": 0.5557692307692308,
+    "macro_precision": 0.5131218905472636,
+    "macro_recall": 0.5557692307692308,
+    "macro_f1": 0.5319657689403473,
+    "macro_auc": 0.7848849481027491,
+    "MCC": 0.46870276410476924,
+    "log_loss": 0.7794071428714413
+  },
+  "ensemble_weights": {
+    "Logistic regression": 0.2559618845402862,
+    "RBF-SVM": 0.24426168627421635,
+    "Extra Trees": 0.26492667525403546,
+    "Deep latent MLP": 0.23484975393146196
+  },
+  "validation_metrics": {
+    "accuracy": 0.7766990291262136,
+    "balanced_accuracy": 0.6805771221532091,
+    "macro_precision": 0.5952508960573476,
+    "macro_recall": 0.6805771221532091,
+    "macro_f1": 0.6240769964768057,
+    "macro_auc": 0.8956044946681683,
+    "MCC": 0.5997680509928222,
+    "log_loss": 0.5746555787367297
+  },
+  "uncalibrated_test_metrics": {
+    "accuracy": 0.7211538461538461,
+    "balanced_accuracy": 0.5557692307692308,
+    "macro_precision": 0.5131218905472636,
+    "macro_recall": 0.5557692307692308,
+    "macro_f1": 0.5319657689403473,
+    "macro_auc": 0.7846865354043364,
+    "MCC": 0.46870276410476924,
+    "log_loss": 0.7708920633688432
+  }
+}

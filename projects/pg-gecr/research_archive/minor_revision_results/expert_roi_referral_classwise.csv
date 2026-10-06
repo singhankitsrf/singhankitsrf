@@ -1,0 +1,13 @@
+rule,Class,support,retained,referred,retained_fraction,auto_correct_sensitivity,retained_case_accuracy,retained_precision
+"Expert-ROI only, fixed confidence/entropy",AOM,14,11,3,0.7857142857142857,0.5714285714285714,0.7272727272727273,0.8888888888888888
+"Expert-ROI only, fixed confidence/entropy",ASOM,13,9,4,0.6923076923076923,0.6153846153846154,0.8888888888888888,1.0
+"Expert-ROI only, fixed confidence/entropy",CSOM,7,5,2,0.7142857142857143,0.2857142857142857,0.4,1.0
+"Expert-ROI only, fixed confidence/entropy",Normal,70,45,25,0.6428571428571429,0.6285714285714286,0.9777777777777777,0.8627450980392157
+Expert-ROI + latent consensus,AOM,14,5,9,0.35714285714285715,0.2857142857142857,0.8,1.0
+Expert-ROI + latent consensus,ASOM,13,7,6,0.5384615384615384,0.5384615384615384,1.0,1.0
+Expert-ROI + latent consensus,CSOM,7,2,5,0.2857142857142857,0.0,0.0,
+Expert-ROI + latent consensus,Normal,70,40,30,0.5714285714285714,0.5714285714285714,1.0,0.9302325581395349
+"Expert-ROI only, post-hoc matched coverage",AOM,14,9,5,0.6428571428571429,0.42857142857142855,0.6666666666666666,1.0
+"Expert-ROI only, post-hoc matched coverage",ASOM,13,4,9,0.3076923076923077,0.3076923076923077,1.0,1.0
+"Expert-ROI only, post-hoc matched coverage",CSOM,7,4,3,0.5714285714285714,0.14285714285714285,0.25,1.0
+"Expert-ROI only, post-hoc matched coverage",Normal,70,37,33,0.5285714285714286,0.5285714285714286,1.0,0.8604651162790697

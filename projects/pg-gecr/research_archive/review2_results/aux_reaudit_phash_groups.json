@@ -1,0 +1,76 @@
+{
+  "Acute Otitis Media": {
+    "exact_unique": 522,
+    "n_groups": 514,
+    "n_singleton_groups": 506,
+    "n_multi_groups": 8,
+    "largest_group": 2,
+    "size_distribution": {
+      "1": 506,
+      "2": 8
+    }
+  },
+  "Cerumen Impaction": {
+    "exact_unique": 600,
+    "n_groups": 300,
+    "n_singleton_groups": 148,
+    "n_multi_groups": 152,
+    "largest_group": 8,
+    "size_distribution": {
+      "1": 148,
+      "2": 77,
+      "3": 35,
+      "4": 23,
+      "5": 7,
+      "6": 6,
+      "7": 2,
+      "8": 2
+    }
+  },
+  "Chronic Otitis Media": {
+    "exact_unique": 600,
+    "n_groups": 445,
+    "n_singleton_groups": 342,
+    "n_multi_groups": 103,
+    "largest_group": 6,
+    "size_distribution": {
+      "1": 342,
+      "2": 72,
+      "3": 19,
+      "4": 4,
+      "5": 7,
+      "6": 1
+    }
+  },
+  "Myringosclerosis": {
+    "exact_unique": 600,
+    "n_groups": 330,
+    "n_singleton_groups": 210,
+    "n_multi_groups": 120,
+    "largest_group": 10,
+    "size_distribution": {
+      "1": 210,
+      "2": 64,
+      "3": 22,
+      "4": 14,
+      "5": 9,
+      "7": 5,
+      "10": 6
+    }
+  },
+  "Normal": {
+    "exact_unique": 600,
+    "n_groups": 335,
+    "n_singleton_groups": 209,
+    "n_multi_groups": 126,
+    "largest_group": 7,
+    "size_distribution": {
+      "1": 209,
+      "2": 61,
+      "3": 25,
+      "4": 14,
+      "5": 22,
+      "7": 4
+    }
+  }
+}

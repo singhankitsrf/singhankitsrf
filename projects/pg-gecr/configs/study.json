@@ -1,0 +1,37 @@
+{
+  "class_order": [
+    "AOM",
+    "ASOM",
+    "CSOM",
+    "Normal"
+  ],
+  "seed": 42,
+  "primary_model": {
+    "scaling": "StandardScaler",
+    "pca_n_components": 0.97,
+    "pca_whiten": true,
+    "logistic_C": 0.05,
+    "max_iter": 4000,
+    "class_weight": "balanced"
+  },
+  "calibration": {
+    "temperature_bounds": [
+      0.25,
+      4.0
+    ],
+    "fit_partition": "validation"
+  },
+  "expert_counts": {
+    "train": 480,
+    "validation": 103,
+    "test": 104
+  },
+  "pseudo_labels": "training only; not admitted to primary expert-only classifier",
+  "policy_thresholds": {
+    "roi_confidence": 0.7,
+    "roi_entropy": 0.65,
+    "latent_confidence": 0.5,
+    "latent_entropy": 0.75
+  },
+  "scope": "Source-derived configuration; external data and original weights are not bundled."
+}

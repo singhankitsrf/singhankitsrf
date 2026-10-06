@@ -16,7 +16,7 @@ flowchart TD
     I --> J[Research retention or human review]
 ```
 
-The diagram describes the study. The code released in this folder implements the policy at its end, plus an aggregate audit; it does not implement all upstream boxes.
+The diagram describes the study. Recovered original upstream research scripts are bundled in `research_archive/`. The portable code implements the policy, aggregate audit and expert-only ROI training/export. Original checkpoints and clinical images are still required for full original-model replay.
 
 ## Portable policy contract
 
