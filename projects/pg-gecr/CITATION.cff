@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the Array paper when discussing the research; this directory is an engineering companion."
+title: "PG-GECR: Auditable AI Engineering Companion"
+type: software
+authors:
+  - family-names: Singh
+    given-names: Ankit Kumar
+url: "https://github.com/singhankitsrf/singhankitsrf/tree/main/projects/pg-gecr"
+preferred-citation:
+  type: article
+  title: "PG-GECR: A Provenance-Gated Hybrid Expert System for Auditable Otoscopic Classification and Human-Supervised Referral"
+  authors:
+    - family-names: Singh
+      given-names: Ankit Kumar
+    - family-names: Raghuvanshi
+      given-names: Ajay Singh
+    - family-names: Mehta
+      given-names: Rupa
+  journal: Array
+  year: 2026
+  url: "https://www.sciencedirect.com/science/article/pii/S2590005626006193"

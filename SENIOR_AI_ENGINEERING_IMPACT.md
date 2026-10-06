@@ -42,3 +42,10 @@ This portfolio supports consideration for senior and lead roles because it demon
 ## Verification policy
 
 Facts marked as reported evidence were supplied by the author. Confidential clinical data, patient information, credentials and protected institutional documents are intentionally excluded. Public repositories provide code-level and reproducibility evidence; institutional proof should be shared only when disclosure is authorized.
+
+
+## Array publication: PG-GECR
+
+First author of [PG-GECR: A Provenance-Gated Hybrid Expert System for Auditable Otoscopic Classification and Human-Supervised Referral](https://www.sciencedirect.com/science/article/pii/S2590005626006193), with Ajay Singh Raghuvanshi and Rupa Mehta, Array (2026).
+
+[Engineering case study and runnable companion](./projects/pg-gecr/README.md): provenance-aware evaluation, validation-based evidence admission, selective referral, portable policy code and source-integrity checks. The project demonstrates research-to-engineering judgment relevant to senior ML, AI architecture and responsible-AI roles. Aggregate results are archived research outputs; the companion does not establish deployment, clinical safety or production impact.

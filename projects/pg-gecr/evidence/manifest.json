@@ -1,0 +1,13 @@
+{
+  "source_archive": "PG_GECR_MinorRevision_Reproducibility_v3.0.zip",
+  "source_archive_sha256": "d4a6396cc9ed9ae9a5c1c0ee3075606688267992a09f86d80af9cbcf6696c431",
+  "source_directory": "repro_v3_build/minor_revision_results",
+  "evidence_scope": "Archived study aggregates; not a new training run or independent replication.",
+  "files": {
+    "expert_roi_referral_ablation.json": "b322db57065c3e0eabea4b98a18d954a37cd131e5c5280b11c3ae967ea152e70",
+    "expert_roi_referral_classwise.csv": "2e90e3f33a115f5171852d5746c105a88a9d58dc663dfcdf3156270f3cba9ead",
+    "expert_roi_referral_curve.csv": "98bc91b1f7e9c9352a270fbc0ec00cd7d98f281601ed6e155da517e7ee0e843d",
+    "aux_repeated_learning_curve_summary_5seeds.csv": "ff6d954fe6cbc2eea702fa7b23518955c0e251a3d838eadecfc628ca3a419cd3",
+    "aux_global_crossclass_conflicts.csv": "d2b00079501c818ef979585cf17539cd673dd96bf805dd0c51bed8a9f86504be"
+  }
+}

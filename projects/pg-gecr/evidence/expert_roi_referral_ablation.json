@@ -1,0 +1,86 @@
+{
+  "expert_metrics": {
+    "accuracy": 0.7884615384615384,
+    "balanced_accuracy": 0.6879120879120879,
+    "macro_f1": 0.677296547734504,
+    "macro_auc": 0.8620038290637022,
+    "mcc": 0.5976523459788102,
+    "log_loss": 0.6175497938886063,
+    "temperature": 0.9537188922116583
+  },
+  "rules": [
+    {
+      "rule": "Expert-ROI only, fixed confidence/entropy",
+      "coverage": 0.6730769230769231,
+      "retained_n": 70,
+      "retained_accuracy": 0.8857142857142857,
+      "error_capture": 0.6363636363636364,
+      "errors_total": 22,
+      "errors_referred": 14
+    },
+    {
+      "rule": "Expert-ROI + latent consensus",
+      "coverage": 0.5192307692307693,
+      "retained_n": 54,
+      "retained_accuracy": 0.9444444444444444,
+      "error_capture": 0.8636363636363636,
+      "errors_total": 22,
+      "errors_referred": 19
+    },
+    {
+      "rule": "Expert-ROI only, post-hoc matched coverage",
+      "coverage": 0.5192307692307693,
+      "retained_n": 54,
+      "retained_accuracy": 0.8888888888888888,
+      "error_capture": 0.7272727272727273,
+      "errors_total": 22,
+      "errors_referred": 16
+    }
+  ],
+  "bootstrap95": {
+    "ROI+latent": {
+      "coverage": [
+        0.4230769230769231,
+        0.6153846153846154
+      ],
+      "retained_accuracy": [
+        0.875,
+        1.0
+      ],
+      "error_capture": [
+        0.6956521739130435,
+        1.0
+      ]
+    },
+    "ROI-only matched": {
+      "coverage": [
+        0.4230769230769231,
+        0.6153846153846154
+      ],
+      "retained_accuracy": [
+        0.8,
+        0.9642857142857143
+      ],
+      "error_capture": [
+        0.5263157894736842,
+        0.9090909090909091
+      ]
+    }
+  },
+  "paired_diff_full_minus_roi_matched": {
+    "retained_accuracy": {
+      "point": 0.05555555555555558,
+      "ci95": [
+        0.0033374936134016042,
+        0.12117346938775508
+      ]
+    },
+    "error_capture": {
+      "point": 0.13636363636363635,
+      "ci95": [
+        0.0,
+        0.30000000000000004
+      ]
+    }
+  }
+}
