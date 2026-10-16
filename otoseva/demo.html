@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OtoSeva AI — Prototype Demo</title>
+<style>
+:root{--navy:#0b2b4a;--blue:#0f6fb7;--teal:#13a89e;--bg:#f4f8fb;--line:#d9e5ef;--ink:#102235}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:var(--navy);color:#fff;padding:18px 6%}.wrap{max-width:1050px;margin:auto;padding:36px 6%}
+a{color:#0f6fb7}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:22px}
+label{display:block;font-weight:700;margin:12px 0 7px}input,select,button{width:100%;padding:12px;border-radius:9px;border:1px solid #bfd0df;font-size:1rem}
+button{background:var(--blue);color:#fff;border:0;font-weight:800;margin-top:15px;cursor:pointer}.stage{padding:12px;border-radius:10px;background:#edf7ff;margin:8px 0}.bar{height:14px;background:#e8eef4;border-radius:8px;overflow:hidden}.fill{height:100%;background:var(--teal)}
+.badge{display:inline-block;padding:5px 9px;border-radius:999px;font-weight:800;font-size:.8rem}.ok{background:#def5ed;color:#087355}.defer{background:#fff0ce;color:#8a5b00}.warn{background:#fff6df;border-left:4px solid #e0a21a;padding:14px;border-radius:8px;margin:18px 0}
+#preview{width:100%;max-height:240px;object-fit:contain;background:#eef3f7;border-radius:10px;display:none;margin-top:10px}
+.prob{margin:10px 0}.probhead{display:flex;justify-content:space-between;font-size:.9rem;margin-bottom:4px}
+.small{font-size:.86rem;color:#5e7185}.result{font-size:1.15rem;font-weight:800;color:var(--navy)}
+@media(max-width:800px){.grid{grid-template-columns:1fr}}
+</style></head>
+<body><header><b>OtoSeva AI — Interactive Workflow Prototype</b></header>
+<div class="wrap"><p><a href="index.html">← Product page</a></p>
+<h1>Prototype / Demo</h1>
+<p>This public demo demonstrates OtoSeva AI's capture → quality → reliability → referral workflow. It is a UI/workflow prototype and does <b>not</b> perform clinical diagnosis.</p>
+<div class="warn"><b>Important:</b> the public demo uses illustrative probability scenarios to demonstrate routing logic. The validated model is not exposed publicly and no uploaded image is transmitted or stored.</div>
+
+<div class="grid">
+<div class="card">
+<h2>1. Capture</h2>
+<label>Upload an otoscopic image</label><input type="file" id="file" accept="image/*">
+<img id="preview" alt="Image preview">
+<label>Demonstration scenario</label>
+<select id="scenario"><option value="normal">Routine / Normal-like</option><option value="aom">AOM-like</option><option value="asom">ASOM-like</option><option value="csom">CSOM-like</option><option value="uncertain">Uncertain / Defer</option></select>
+<button onclick="runDemo()">Run workflow demo</button>
+<p class="small">Image processing below is local in your browser. Scenario probabilities are illustrative, not model predictions.</p>
+</div>
+
+<div class="card">
+<h2>2. Workflow state</h2>
+<div class="stage" id="s1">Capture — waiting</div>
+<div class="stage" id="s2">Quality gate — waiting</div>
+<div class="stage" id="s3">MONAI preprocessing — waiting</div>
+<div class="stage" id="s4">AI + reliability — waiting</div>
+<div class="stage" id="s5">Referral — waiting</div>
+</div>
+</div>
+
+<div class="card" style="margin-top:20px" id="out">
+<h2>3. Result</h2><p>Run the workflow to see the routing demonstration.</p>
+</div>
+</div>
+<script>
+const file=document.getElementById('file'), preview=document.getElementById('preview');
+file.onchange=()=>{const f=file.files[0];if(!f)return;preview.src=URL.createObjectURL(f);preview.style.display='block';};
+const scenarios={
+normal:[.08,.04,.03,.85],aom:[.72,.10,.05,.13],asom:[.08,.78,.06,.08],csom:[.09,.08,.70,.13],uncertain:[.31,.25,.20,.24]
+};
+function runDemo(){
+ const has=!!file.files[0], sc=document.getElementById('scenario').value, p=scenarios[sc];
+ document.getElementById('s1').textContent='Capture — '+(has?'image loaded':'demo image state');
+ document.getElementById('s2').textContent='Quality gate — '+(has?'basic browser check passed':'illustrative pass');
+ document.getElementById('s3').textContent='MONAI preprocessing — standardized workflow simulated';
+ const max=Math.max(...p), ent=-p.reduce((a,v)=>a+(v? v*Math.log(v):0),0)/Math.log(4);
+ const defer=max<.60 || ent>.72;
+ document.getElementById('s4').textContent='AI + reliability — confidence '+(max*100).toFixed(1)+'%, normalized entropy '+ent.toFixed(2);
+ document.getElementById('s5').textContent='Referral — '+(defer?'DEFER / CLINICIAN REVIEW':'ROUTINE CLINICIAN REVIEW');
+ const names=['AOM','ASOM','CSOM/COM','Normal'];
+ let html='<h2>3. Result</h2><p class="result">'+(defer?'<span class="badge defer">DEFER</span> Uncertain case → repeat capture / clinician review':'<span class="badge ok">ACCEPT</span> Screening output → routine clinician review')+'</p>';
+ p.forEach((v,i)=>{html+='<div class="prob"><div class="probhead"><span>'+names[i]+'</span><b>'+(v*100).toFixed(0)+'%</b></div><div class="bar"><div class="fill" style="width:'+(v*100)+'%"></div></div></div>'});
+ html+='<p class="small"><b>Demo only:</b> values above are illustrative routing scenarios, not diagnostic results. Final diagnosis remains with a qualified clinician.</p>';
+ document.getElementById('out').innerHTML=html;
+}
+</script></body></html>
