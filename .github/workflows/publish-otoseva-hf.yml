@@ -1,0 +1,67 @@
+name: Publish OtoSeva AI to Hugging Face
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/hf-publish-trigger.txt"
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout portfolio
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Hugging Face Hub client
+        run: python -m pip install --upgrade huggingface_hub
+
+      - name: Validate Hugging Face credential
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, sys
+          from huggingface_hub import HfApi
+          token = os.environ.get("HF_TOKEN")
+          if not token:
+              sys.exit("HF_TOKEN repository secret is missing.")
+          me = HfApi(token=token).whoami()
+          print("Authenticated to Hugging Face as:", me.get("name") or me.get("fullname") or "unknown")
+          PY
+
+      - name: Create or update OtoSeva AI Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+
+          repo_id = "singhankit491/OtoSeva-AI"
+          source = "otoseva/huggingface-space"
+          api = HfApi(token=os.environ["HF_TOKEN"])
+
+          api.create_repo(
+              repo_id=repo_id,
+              repo_type="space",
+              space_sdk="gradio",
+              private=False,
+              exist_ok=True,
+          )
+          api.upload_folder(
+              repo_id=repo_id,
+              repo_type="space",
+              folder_path=source,
+              commit_message="Publish OtoSeva AI prototype and portfolio demo",
+          )
+          print(f"Published: https://huggingface.co/spaces/{repo_id}")
+          PY
