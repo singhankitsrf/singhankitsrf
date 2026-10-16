@@ -19,6 +19,7 @@ I design AI systems as engineering products: from data/model/retrieval design th
 | Project | What to inspect | Primary signal | Live demo |
 |---|---|---|---|
 | [PG-GECR — Array publication companion](./projects/pg-gecr/README.md) | publication, provenance controls, portable referral policy, aggregate evidence audit, classwise limits | Applied AI / ML architecture / responsible AI | [Local runnable checks](./projects/pg-gecr/README.md#run-locally) |
+| [OtoSeva AI](./otoseva/README.md) | MONAI-enabled screening workflow, capture QA, calibration, uncertainty routing, clinician review and commercialization plan | Healthcare AI product / medical AI architecture | [Product](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/index.html) · [Demo](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/demo.html) |
 | [AgentForge Enterprise](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) | LangGraph orchestration, MCP tools, governed RAG, evaluation, approval boundaries | Agentic AI / AI platform | [Hugging Face](https://huggingface.co/spaces/singhankit491/agentforge-enterprise) |
 | [OtoVision MLOps](https://github.com/singhankitsrf/Otovision-MLOps) | medical CV pipeline, leakage controls, calibration/uncertainty design, Grad-CAM, Docker/Kubernetes | Medical AI / MLOps | [Hugging Face](https://huggingface.co/spaces/singhankit491/otovision-mlops) |
 | [OtoSage AWS](https://github.com/singhankitsrf/OtoSage_AWS_GitHub) | SageMaker lifecycle, Model Registry, async inference, Terraform, event-driven architecture | AWS AI platform | [Hugging Face](https://huggingface.co/spaces/singhankit491/otosage-aws) |
@@ -72,8 +73,9 @@ If you have only 10–15 minutes:
 
 1. Read the [portfolio index](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md).
 2. Inspect **AgentForge Enterprise** for GenAI/AI-platform depth.
-3. Inspect **[PG-GECR](./projects/pg-gecr/README.md)** for publication-backed evaluation and governance; run its policy and evidence checks. Use **OtoVision MLOps** for the broader computer-vision pipeline.
-4. Open one Hugging Face demo.
-5. Read one technical article to assess architecture communication and evidence discipline.
+3. Inspect **[OtoSeva AI](./otoseva/README.md)** for healthcare-AI productization, MONAI workflow design, uncertainty-aware referral and commercialization discipline.
+4. Inspect **[PG-GECR](./projects/pg-gecr/README.md)** for publication-backed evaluation and governance; use **OtoVision MLOps** for the broader computer-vision pipeline.
+5. Open one Hugging Face demo.
+6. Read one technical article to assess architecture communication and evidence discipline.
 
 > Medical/healthcare repositories are research and engineering portfolio systems unless explicitly supported by separate validation evidence. They are not presented as autonomous clinical products or medical devices.
