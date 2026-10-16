@@ -10,7 +10,7 @@ Personally building and executing end-to-end AI systems across **medical decisio
 [![GitHub](https://img.shields.io/badge/GitHub-singhankitsrf-181717?logo=github)](https://github.com/singhankitsrf)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-singhankit491-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/singhankit491)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Singh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-singh-data-scientist-434404203)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7%20Flagship%20Projects-2563EB)](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8%20Flagship%20Projects-2563EB)](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
 [![Evidence First AI](https://img.shields.io/badge/Publication-Evidence--First%20AI%20Systems-4B5563)](./writing/README.md)
 
 </div>
@@ -26,6 +26,20 @@ First-author **Array (2026)** research on provenance-gated otoscopic AI, with a 
 **Inspect:** [publication](https://www.sciencedirect.com/science/article/pii/S2590005626006193) · [architecture](./projects/pg-gecr/ARCHITECTURE.md) · [portable policy](./projects/pg-gecr/policy.py) · [evidence audit](./projects/pg-gecr/audit_evidence.py) · [model card](./projects/pg-gecr/MODEL_CARD.md).
 
 The study combines expert-only evaluation, data provenance, validation-based rejection of unsupported augmentation, and uncertainty-aware human review. The companion adds runnable policy examples, source-verified aggregate checks and automated tests. Research results are explicitly separated from deployment claims; recovered training source and a portable ROI training/export path are bundled, with missing original checkpoints explicitly documented.
+
+---
+
+## Featured startup innovation — OtoSeva AI
+
+### MONAI-enabled human-supervised ear screening & referral platform
+
+**OtoSeva AI** translates reliability-aware medical imaging research into a commercial product workflow for clinics, schools, screening camps and tele-ENT pathways. The system is designed around **guided otoscopic capture → image-quality gate → MONAI preprocessing → calibrated screening output → uncertainty-aware accept/defer logic → clinician review + audit trail**.
+
+**Live product surfaces:** [Product website](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/index.html) · [Interactive prototype demo](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/demo.html) · [Source](./otoseva/README.md)
+
+**Current evidence boundary:** internal retrospective technical validation only. The workflow is presented as **human-supervised screening and referral support**, not autonomous diagnosis. External device-diverse prospective validation and applicable regulatory assessment are planned before clinical deployment.
+
+**Portfolio signal:** healthcare-AI productization · MONAI · uncertainty calibration · selective referral · clinical workflow design · responsible AI · commercialization planning.
 
 ---
 
@@ -88,14 +102,15 @@ These are application targets, not guaranteed outcomes. The evidence above estab
 | Priority | Project | Primary signal | Live surface |
 |---|---|---|---|
 | 1 | [PG-GECR — Array research companion](./projects/pg-gecr/README.md) | Auditable AI · provenance · uncertainty · publication-backed evidence | [Runnable policy & audit](./projects/pg-gecr/README.md#run-locally) |
-| 2 | [AgentForge Enterprise](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) | Agentic AI · LangGraph · MCP · governed RAG | [Hugging Face](https://huggingface.co/spaces/singhankit491/agentforge-enterprise) |
-| 3 | [Liver Wala](./projects/telemedicine-platform/README.md) | Live telemedicine · product workflow · real-time consultation | [Live application](https://liver-wala.singhankitjrf.chatgpt.site) · [Hugging Face](https://huggingface.co/spaces/singhankit491/lw-telemedicine-product) |
-| 4 | [OtoVision MLOps](https://github.com/singhankitsrf/Otovision-MLOps) | Medical CV · reliability · MLOps | [Hugging Face](https://huggingface.co/spaces/singhankit491/otovision-mlops) |
-| 5 | [OtoSage AWS](https://github.com/singhankitsrf/OtoSage_AWS_GitHub) | AWS · SageMaker · Terraform · model lifecycle | [Hugging Face](https://huggingface.co/spaces/singhankit491/otosage-aws) |
-| 6 | [ClinRoute NLP ReleaseOps](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps) | NLP · evaluation · model-aware CI/CD | [Hugging Face](https://huggingface.co/spaces/singhankit491/clinroute-nlp) |
-| 7 | [MedLake Azure PySpark](https://github.com/singhankitsrf/MedLake-Azure-PySpark) | Azure · PySpark · Delta Lake · data platform | [Hugging Face](https://huggingface.co/spaces/singhankit491/medlake-pyspark) |
+| 2 | [OtoSeva AI](./otoseva/README.md) | Healthcare AI product · MONAI · calibrated referral · commercialization | [Product](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/index.html) · [Demo](https://rawcdn.githack.com/singhankitsrf/singhankitsrf/db07c704b5e6d71668154c5b2f98dee72b8ba075/otoseva/demo.html) |
+| 3 | [AgentForge Enterprise](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG) | Agentic AI · LangGraph · MCP · governed RAG | [Hugging Face](https://huggingface.co/spaces/singhankit491/agentforge-enterprise) |
+| 4 | [Liver Wala](./projects/telemedicine-platform/README.md) | Live telemedicine · product workflow · real-time consultation | [Live application](https://liver-wala.singhankitjrf.chatgpt.site) · [Hugging Face](https://huggingface.co/spaces/singhankit491/lw-telemedicine-product) |
+| 5 | [OtoVision MLOps](https://github.com/singhankitsrf/Otovision-MLOps) | Medical CV · reliability · MLOps | [Hugging Face](https://huggingface.co/spaces/singhankit491/otovision-mlops) |
+| 6 | [OtoSage AWS](https://github.com/singhankitsrf/OtoSage_AWS_GitHub) | AWS · SageMaker · Terraform · model lifecycle | [Hugging Face](https://huggingface.co/spaces/singhankit491/otosage-aws) |
+| 7 | [ClinRoute NLP ReleaseOps](https://github.com/singhankitsrf/ClinRoute-NLP-ReleaseOps) | NLP · evaluation · model-aware CI/CD | [Hugging Face](https://huggingface.co/spaces/singhankit491/clinroute-nlp) |
+| 8 | [MedLake Azure PySpark](https://github.com/singhankitsrf/MedLake-Azure-PySpark) | Azure · PySpark · Delta Lake · data platform | [Hugging Face](https://huggingface.co/spaces/singhankit491/medlake-pyspark) |
 
-[Complete seven-project portfolio index →](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
+[Complete eight-project portfolio index →](https://github.com/singhankitsrf/AgentForge-Enterprise-Agentic-RAG/blob/main/PORTFOLIO_PROJECTS.md)
 
 ---
 
