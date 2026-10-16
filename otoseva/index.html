@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OtoSeva AI — Human-Supervised Ear Screening</title>
+<meta name="description" content="OtoSeva AI is a MONAI-based human-supervised otoscopic screening and referral workflow for clinics, schools, camps and tele-ENT pathways.">
+<style>
+:root{--navy:#0b2b4a;--blue:#0f6fb7;--teal:#13a89e;--ink:#102235;--muted:#5e7185;--bg:#f4f8fb;--card:#fff;--line:#d9e5ef;--ok:#e8f7f4;--warn:#fff6df}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.55}
+header{background:linear-gradient(135deg,var(--navy),#124c78);color:#fff;padding:18px 7%}
+nav{display:flex;justify-content:space-between;align-items:center;gap:20px}.brand{font-weight:800;font-size:1.25rem}.tag{font-size:.85rem;opacity:.85}
+nav a{color:#fff;text-decoration:none;margin-left:16px;font-size:.93rem}
+.hero{padding:72px 7% 56px;background:linear-gradient(135deg,#eef8ff,#f8fffd)}
+.hero-grid{max-width:1180px;margin:auto;display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:center}
+h1{font-size:clamp(2.2rem,5vw,4.5rem);line-height:1.02;margin:0 0 18px;color:var(--navy)}
+.lead{font-size:1.2rem;color:#36536b;max-width:760px}.pill{display:inline-block;background:#dff4ff;color:#075a92;padding:6px 12px;border-radius:999px;font-weight:700;font-size:.82rem;margin-bottom:18px}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}.btn{display:inline-block;padding:12px 18px;border-radius:10px;text-decoration:none;font-weight:700}.primary{background:var(--blue);color:#fff}.secondary{border:1px solid var(--blue);color:var(--blue);background:#fff}
+.hero-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:24px;box-shadow:0 12px 34px rgba(17,64,96,.09)}
+.metric{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:12px 0}.metric:last-child{border:0}.metric b{font-size:1.3rem;color:var(--blue)}
+section{padding:56px 7%}.wrap{max-width:1180px;margin:auto}h2{font-size:2rem;margin:0 0 24px;color:var(--navy)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px}
+.stepnum{width:34px;height:34px;display:grid;place-items:center;border-radius:50%;background:var(--blue);color:#fff;font-weight:800;margin-bottom:12px}
+.evidence{background:#fff}.evgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}.ev{padding:20px;border-radius:14px;background:#f7fbfe;border:1px solid var(--line);text-align:center}.ev strong{display:block;font-size:1.65rem;color:var(--blue)}
+.notice{background:var(--warn);border-left:4px solid #e0a21a;padding:16px 18px;border-radius:8px;margin-top:24px}
+.use{background:var(--ok);border-left:4px solid var(--teal);padding:18px;border-radius:8px}
+footer{background:#081f34;color:#c8d7e4;padding:34px 7%}.small{font-size:.86rem;color:var(--muted)}
+@media(max-width:850px){.hero-grid,.grid,.evgrid{grid-template-columns:1fr}.hero{padding-top:44px}nav .links{display:none}}
+</style>
+</head>
+<body>
+<header><nav><div><div class="brand">OtoSeva AI</div><div class="tag">Screening & referral support • Human-supervised</div></div><div class="links"><a href="#solution">Solution</a><a href="#evidence">Evidence</a><a href="#impact">Impact</a><a href="demo.html">Demo</a></div></nav></header>
+<main>
+<section class="hero"><div class="hero-grid">
+<div><span class="pill">MONAI-enabled digital health workflow</span><h1>Safer first-pass ear screening, with uncertainty built in.</h1>
+<p class="lead">OtoSeva AI converts digital otoscope images into a quality-aware, calibrated and auditable screening workflow that helps clinics, schools, screening camps and tele-ENT programmes decide when to proceed, repeat capture or escalate for clinician review.</p>
+<div class="cta"><a class="btn primary" href="demo.html">Open Prototype Demo</a><a class="btn secondary" href="#evidence">See Validation Evidence</a></div></div>
+<div class="hero-card">
+<h3 style="margin-top:0">Current readiness</h3>
+<div class="metric"><span>Stage</span><b>TRL 4</b></div>
+<div class="metric"><span>QA-clean images</span><b>687</b></div>
+<div class="metric"><span>Locked test images</span><b>115</b></div>
+<div class="metric"><span>Target</span><b>Pilot-ready MVP</b></div>
+</div></div></section>
+
+<section id="solution"><div class="wrap"><h2>End-to-end MONAI workflow</h2><div class="grid">
+<div class="card"><div class="stepnum">1</div><h3>Guided capture</h3><p>Digital otoscope or smartphone-compatible capture with session ID, operator checklist and consent status.</p></div>
+<div class="card"><div class="stepnum">2</div><h3>Quality gate</h3><p>Checks blur, glare, exposure, obstruction, field of view and visible tympanic-membrane coverage before inference.</p></div>
+<div class="card"><div class="stepnum">3</div><h3>MONAI processing</h3><p>Versioned resize, normalization and reproducible transforms prepare images for consistent model inference.</p></div>
+<div class="card"><div class="stepnum">4</div><h3>AI + reliability</h3><p>Four-class screening support with calibrated confidence, entropy-based uncertainty and accept/defer logic.</p></div>
+<div class="card"><div class="stepnum">5</div><h3>Clinician queue</h3><p>Probabilities, referral priority, review notes, overrides and versioned audit trail support human decision-making.</p></div>
+<div class="card"><div class="stepnum">6</div><h3>Monitoring</h3><p>Tracks image quality, deferral, clinician override, class-wise performance, calibration and device-specific drift.</p></div>
+</div></div></section>
+
+<section class="evidence" id="evidence"><div class="wrap"><h2>Internal technical evidence</h2>
+<div class="evgrid">
+<div class="ev"><strong>0.873</strong><span>Macro ROC-AUC</span></div>
+<div class="ev"><strong>0.082</strong><span>ECE after calibration</span></div>
+<div class="ev"><strong>81.5%</strong><span>Accuracy at 80% coverage</span></div>
+<div class="ev"><strong>20.8 ms</strong><span>Median CPU baseline</span></div>
+<div class="ev"><strong>53.2 ms</strong><span>P95 CPU baseline</span></div>
+</div>
+<div class="notice"><b>Evidence boundary:</b> these results are from internal retrospective technical validation. They demonstrate feasibility of the governed screening and referral logic; they do not establish external clinical efficacy or autonomous diagnosis. Device-diverse prospective validation is the next milestone.</div>
+</div></section>
+
+<section id="impact"><div class="wrap"><h2>Designed for affordable scale</h2><div class="grid">
+<div class="card"><h3>Schools & communities</h3><p>Structured screening and earlier referral for children and families who may not have immediate ENT access.</p></div>
+<div class="card"><h3>PHCs & clinics</h3><p>Quality-controlled capture plus a standardized referral pathway for first-contact providers.</p></div>
+<div class="card"><h3>ENT & telemedicine</h3><p>Prioritized review queues instead of unsorted cases, with uncertainty and audit information visible to the reviewer.</p></div>
+</div>
+<div class="use" style="margin-top:22px"><b>Commercial pathway:</b> clinic SaaS + usage, school/camp screening packages, district pilots and API/white-label integration. Initial implementation target: 5,000–10,000 screenings during staged pilots, subject to partner approvals.</div>
+</div></section>
+
+<section><div class="wrap"><h2>Team</h2><div class="card"><h3>Ankit Kumar Singh — Team Lead & Sole Innovator</h3><p>PhD Research Scholar, NIT Raipur. Leads healthcare-AI research, MONAI workflow development, model validation, product architecture, deployment planning, clinical workflow design and commercialization strategy.</p><p class="small">Contact: aksingh.phd2022.etc@nitrr.ac.in</p></div></div></section>
+</main>
+<footer><div class="wrap"><b>OtoSeva AI</b><br><span>Human-supervised screening and referral support only. Final diagnosis and treatment remain with qualified clinicians.</span></div></footer>
+</body></html>
