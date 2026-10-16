@@ -1,0 +1,4 @@
+OtoSeva AI Hugging Face publication trigger.
+
+Do not store credentials in this file.
+The workflow reads the HF_TOKEN secret from GitHub Actions.
